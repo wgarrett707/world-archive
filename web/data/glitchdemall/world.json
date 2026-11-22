@@ -1,0 +1,1174 @@
+{
+ "id": "glitchdemall",
+ "folder": "Glitchdemall",
+ "edition": "Java",
+ "level_name": "world",
+ "version": "1.12.2",
+ "data_version": 1343,
+ "game_mode": "Creative",
+ "hardcore": false,
+ "cheats": false,
+ "generator": "Default",
+ "seed": "-956824355511618951",
+ "spawn": [
+  39887,
+  73,
+  1877
+ ],
+ "last_played": "2026-11-22T00:59:51.834000Z",
+ "world_ticks": 1318274,
+ "day_time": 0,
+ "raining": false,
+ "thundering": false,
+ "players": [
+  {
+   "name": "You",
+   "pos": [
+    -316,
+    122,
+    974
+   ],
+   "dimension": 0,
+   "xp_level": 10,
+   "game_mode": "Creative",
+   "play_ticks": 1130203,
+   "blocks_placed": 21885,
+   "blocks_mined": 9525,
+   "items_crafted": 0,
+   "walked_m": 32783,
+   "flown_m": 75631,
+   "deaths": 40,
+   "mob_kills": 15,
+   "jumps": 8500,
+   "inventory": [
+    [
+     "wool",
+     2
+    ],
+    [
+     "volcano",
+     1
+    ],
+    [
+     "stone",
+     1
+    ],
+    [
+     "grass",
+     1
+    ]
+   ]
+  },
+  {
+   "pos": [
+    -391,
+    70,
+    932
+   ],
+   "dimension": 0,
+   "xp_level": 2,
+   "game_mode": "Creative",
+   "play_ticks": 651530,
+   "blocks_placed": 6611,
+   "blocks_mined": 3,
+   "items_crafted": 0,
+   "walked_m": 18103,
+   "flown_m": 37795,
+   "deaths": 33,
+   "mob_kills": 84,
+   "jumps": 3261,
+   "inventory": [
+    [
+     "renamed item",
+     193
+    ],
+    [
+     "cooked_beef",
+     37
+    ],
+    [
+     "glass_bottle",
+     21
+    ],
+    [
+     "torch",
+     7
+    ],
+    [
+     "diamond_boots",
+     5
+    ],
+    [
+     "lever",
+     4
+    ],
+    [
+     "milk_bucket",
+     1
+    ],
+    [
+     "written_book",
+     1
+    ]
+   ]
+  },
+  {
+   "pos": [
+    -356,
+    104,
+    1051
+   ],
+   "dimension": 0,
+   "xp_level": 3,
+   "game_mode": "Creative",
+   "play_ticks": 547797,
+   "blocks_placed": 6409,
+   "blocks_mined": 6,
+   "items_crafted": 0,
+   "walked_m": 22683,
+   "flown_m": 39918,
+   "deaths": 60,
+   "mob_kills": 8,
+   "jumps": 7452,
+   "inventory": [
+    [
+     "renamed item",
+     13
+    ],
+    [
+     "stone_button",
+     4
+    ],
+    [
+     "chest",
+     2
+    ],
+    [
+     "anvil",
+     1
+    ],
+    [
+     "lapis_block",
+     1
+    ],
+    [
+     "sandstone",
+     1
+    ],
+    [
+     "wool",
+     1
+    ]
+   ]
+  },
+  {
+   "pos": [
+    -381,
+    62,
+    1149
+   ],
+   "dimension": 0,
+   "xp_level": 12,
+   "game_mode": "Creative",
+   "play_ticks": 450890,
+   "blocks_placed": 9292,
+   "blocks_mined": 955,
+   "items_crafted": 0,
+   "walked_m": 17663,
+   "flown_m": 26635,
+   "deaths": 3,
+   "mob_kills": 53,
+   "jumps": 3017,
+   "inventory": [
+    [
+     "wool",
+     1
+    ]
+   ]
+  },
+  {
+   "pos": [
+    39850,
+    1866,
+    7395
+   ],
+   "dimension": 0,
+   "xp_level": 0,
+   "game_mode": "Creative",
+   "play_ticks": 104934,
+   "blocks_placed": 212,
+   "blocks_mined": 82,
+   "items_crafted": 0,
+   "walked_m": 5653,
+   "flown_m": 10197,
+   "deaths": 11,
+   "mob_kills": 27,
+   "jumps": 1005,
+   "inventory": [
+    [
+     "cooked_beef",
+     121
+    ],
+    [
+     "cobblestone",
+     44
+    ],
+    [
+     "dye",
+     26
+    ],
+    [
+     "stone",
+     18
+    ],
+    [
+     "rotten_flesh",
+     14
+    ],
+    [
+     "renamed item",
+     14
+    ]
+   ]
+  },
+  {
+   "pos": [
+    39871,
+    68,
+    1835
+   ],
+   "dimension": 0,
+   "xp_level": 0,
+   "game_mode": "Creative",
+   "play_ticks": 754,
+   "blocks_placed": 0,
+   "blocks_mined": 0,
+   "items_crafted": 0,
+   "walked_m": 4,
+   "flown_m": 81,
+   "deaths": 0,
+   "mob_kills": 0,
+   "jumps": 1,
+   "inventory": []
+  },
+  {
+   "pos": [
+    39878,
+    85,
+    1860
+   ],
+   "dimension": 0,
+   "xp_level": 0,
+   "game_mode": "Creative",
+   "play_ticks": 278,
+   "blocks_placed": 0,
+   "blocks_mined": 0,
+   "items_crafted": 0,
+   "walked_m": 0,
+   "flown_m": 22,
+   "deaths": 0,
+   "mob_kills": 0,
+   "jumps": 2,
+   "inventory": []
+  }
+ ],
+ "dimensions": [],
+ "dates": {
+  "first": "2017-05-03",
+  "last": "2017-06-07"
+ },
+ "icon": "data/glitchdemall/icon.png",
+ "chunks": 6125,
+ "area_km2": 1.57,
+ "top_blocks": [
+  [
+   "stone",
+   56443282,
+   "#7d7d7d"
+  ],
+  [
+   "water",
+   23775380,
+   "#3e76de"
+  ],
+  [
+   "bedrock",
+   4703168,
+   "#555555"
+  ],
+  [
+   "andesite stone",
+   2895485,
+   "#888888"
+  ],
+  [
+   "granite stone",
+   2785917,
+   "#956755"
+  ],
+  [
+   "diorite stone",
+   2671905,
+   "#bcbcbc"
+  ],
+  [
+   "dirt",
+   1949909,
+   "#866043"
+  ],
+  [
+   "gravel",
+   1818865,
+   "#837f7e"
+  ],
+  [
+   "coal ore",
+   760610,
+   "#737373"
+  ],
+  [
+   "sand",
+   588752,
+   "#dbcfa3"
+  ],
+  [
+   "lava",
+   560413,
+   "#d4600e"
+  ],
+  [
+   "sandstone",
+   490591,
+   "#d8cb9b"
+  ],
+  [
+   "iron ore",
+   447696,
+   "#88827f"
+  ],
+  [
+   "grass",
+   293842,
+   "#689e3a"
+  ],
+  [
+   "redstone ore",
+   158479,
+   "#856b6b"
+  ],
+  [
+   "gold ore",
+   56502,
+   "#8f8c7d"
+  ]
+ ],
+ "built_blocks": [
+  [
+   "oak planks",
+   15538,
+   "#a2824e"
+  ],
+  [
+   "oak fence",
+   11598,
+   "#a2824e"
+  ],
+  [
+   "rail",
+   3276,
+   "#7d6e55"
+  ],
+  [
+   "stonebrick",
+   2572,
+   "#7a797a"
+  ],
+  [
+   "mossy cobblestone",
+   1789,
+   "#6e765e"
+  ],
+  [
+   "red wool",
+   720,
+   "#a02722"
+  ],
+  [
+   "glass",
+   581,
+   "#d2e4ec"
+  ],
+  [
+   "command block",
+   458,
+   "#b4876e"
+  ],
+  [
+   "white stained glass",
+   402,
+   "#e9ecec"
+  ],
+  [
+   "blue stained hardened clay",
+   321,
+   "#4a3b5b"
+  ],
+  [
+   "light blue stained hardened clay",
+   267,
+   "#716c89"
+  ],
+  [
+   "redstone block",
+   168,
+   "#af1805"
+  ],
+  [
+   "blue wool",
+   144,
+   "#35399d"
+  ],
+  [
+   "torch",
+   144,
+   "#ffd25a"
+  ],
+  [
+   "quartz block",
+   119,
+   "#ebe5de"
+  ],
+  [
+   "lapis block",
+   102,
+   "#1e438c"
+  ]
+ ],
+ "total_built": 38199,
+ "entities": [
+  [
+   "item",
+   599
+  ],
+  [
+   "xp_orb",
+   105
+  ],
+  [
+   "chicken",
+   70
+  ],
+  [
+   "squid",
+   66
+  ],
+  [
+   "cow",
+   61
+  ],
+  [
+   "rabbit",
+   58
+  ],
+  [
+   "sheep",
+   54
+  ],
+  [
+   "chest_minecart",
+   50
+  ],
+  [
+   "creeper",
+   36
+  ],
+  [
+   "skeleton",
+   32
+  ],
+  [
+   "bat",
+   25
+  ],
+  [
+   "zombie",
+   24
+  ],
+  [
+   "pig",
+   17
+  ],
+  [
+   "spider",
+   13
+  ]
+ ],
+ "sign_count": 52,
+ "container_count": 82,
+ "book_count": 0,
+ "map": {
+  "src": "data/glitchdemall/map.webp",
+  "w": 640,
+  "h": 816,
+  "x0": -688,
+  "z0": 688,
+  "scale": 1.0,
+  "cropped": false,
+  "chunks_in_view": 1741,
+  "clusters": 6
+ },
+ "exhibits": [
+  {
+   "chunks": [
+    -26,
+    57,
+    -16,
+    68
+   ],
+   "x0": -416,
+   "z0": 912,
+   "w": 176,
+   "d": 192,
+   "score": 16254.7,
+   "built_blocks": 4851,
+   "inhabited_ticks": 128722330,
+   "id": "exhibit-1",
+   "y_range": [
+    54,
+    235
+   ],
+   "scale": 4,
+   "materials": [
+    [
+     "stonebrick",
+     2480,
+     "#7a797a"
+    ],
+    [
+     "red wool",
+     440,
+     "#a02722"
+    ],
+    [
+     "glass",
+     126,
+     "#d2e4ec"
+    ],
+    [
+     "rail",
+     116,
+     "#7d6e55"
+    ],
+    [
+     "quartz block",
+     106,
+     "#ebe5de"
+    ],
+    [
+     "command block",
+     82,
+     "#b4876e"
+    ],
+    [
+     "oak fence",
+     62,
+     "#a2824e"
+    ],
+    [
+     "golden rail",
+     60,
+     "#7d6e55"
+    ],
+    [
+     "mossy cobblestone",
+     58,
+     "#6e765e"
+    ],
+    [
+     "redstone wire",
+     54,
+     "#be140a"
+    ]
+   ],
+   "views": [
+    {
+     "src": "data/glitchdemall/exhibit-1-r0.webp",
+     "w": 1472,
+     "h": 1134
+    },
+    {
+     "src": "data/glitchdemall/exhibit-1-r1.webp",
+     "w": 1472,
+     "h": 872
+    },
+    {
+     "src": "data/glitchdemall/exhibit-1-r2.webp",
+     "w": 1472,
+     "h": 1086
+    },
+    {
+     "src": "data/glitchdemall/exhibit-1-r3.webp",
+     "w": 1472,
+     "h": 1348
+    }
+   ],
+   "thumb": "data/glitchdemall/exhibit-1-thumb.webp",
+   "containers": [
+    {
+     "pos": [
+      -287,
+      65,
+      982
+     ],
+     "type": "chest",
+     "items": [
+      [
+       "renamed item",
+       1664
+      ]
+     ],
+     "total": 1664
+    },
+    {
+     "pos": [
+      -286,
+      65,
+      982
+     ],
+     "type": "chest",
+     "items": [
+      [
+       "renamed item",
+       1664
+      ]
+     ],
+     "total": 1664
+    },
+    {
+     "pos": [
+      -363,
+      66,
+      1068
+     ],
+     "type": "dispenser",
+     "items": [
+      [
+       "arrow",
+       113
+      ]
+     ],
+     "total": 113
+    },
+    {
+     "pos": [
+      -369,
+      66,
+      1068
+     ],
+     "type": "dispenser",
+     "items": [
+      [
+       "arrow",
+       91
+      ]
+     ],
+     "total": 91
+    },
+    {
+     "pos": [
+      -371,
+      66,
+      1068
+     ],
+     "type": "dispenser",
+     "items": [
+      [
+       "arrow",
+       91
+      ]
+     ],
+     "total": 91
+    },
+    {
+     "pos": [
+      -370,
+      66,
+      1064
+     ],
+     "type": "dispenser",
+     "items": [
+      [
+       "arrow",
+       91
+      ]
+     ],
+     "total": 91
+    },
+    {
+     "pos": [
+      -365,
+      66,
+      1068
+     ],
+     "type": "dispenser",
+     "items": [
+      [
+       "arrow",
+       91
+      ]
+     ],
+     "total": 91
+    },
+    {
+     "pos": [
+      -367,
+      66,
+      1068
+     ],
+     "type": "dispenser",
+     "items": [
+      [
+       "arrow",
+       91
+      ]
+     ],
+     "total": 91
+    },
+    {
+     "pos": [
+      -364,
+      66,
+      1064
+     ],
+     "type": "dispenser",
+     "items": [
+      [
+       "arrow",
+       91
+      ]
+     ],
+     "total": 91
+    },
+    {
+     "pos": [
+      -366,
+      66,
+      1064
+     ],
+     "type": "dispenser",
+     "items": [
+      [
+       "arrow",
+       91
+      ]
+     ],
+     "total": 91
+    },
+    {
+     "pos": [
+      -368,
+      66,
+      1064
+     ],
+     "type": "dispenser",
+     "items": [
+      [
+       "arrow",
+       91
+      ]
+     ],
+     "total": 91
+    },
+    {
+     "pos": [
+      -264,
+      69,
+      1082
+     ],
+     "type": "chest",
+     "items": [
+      [
+       "minecart",
+       26
+      ]
+     ],
+     "total": 26
+    }
+   ],
+   "sign_count": 31
+  },
+  {
+   "chunks": [
+    6,
+    4,
+    10,
+    8
+   ],
+   "x0": 96,
+   "z0": 64,
+   "w": 80,
+   "d": 80,
+   "score": 8884.2,
+   "built_blocks": 1122,
+   "inhabited_ticks": 6283587,
+   "id": "exhibit-2",
+   "y_range": [
+    54,
+    189
+   ],
+   "scale": 6,
+   "materials": [
+    [
+     "glass",
+     450,
+     "#d2e4ec"
+    ],
+    [
+     "blue stained hardened clay",
+     297,
+     "#4a3b5b"
+    ],
+    [
+     "light blue stained hardened clay",
+     259,
+     "#716c89"
+    ],
+    [
+     "blue stained glass",
+     53,
+     "#35399d"
+    ],
+    [
+     "stone brick stairs",
+     18,
+     "#7a797a"
+    ],
+    [
+     "command block",
+     8,
+     "#b4876e"
+    ],
+    [
+     "nether brick fence",
+     6,
+     "#a2824e"
+    ],
+    [
+     "oak fence",
+     6,
+     "#a2824e"
+    ],
+    [
+     "torch",
+     1,
+     "#ffd25a"
+    ]
+   ],
+   "views": [
+    {
+     "src": "data/glitchdemall/exhibit-2-r0.webp",
+     "w": 960,
+     "h": 1092
+    },
+    {
+     "src": "data/glitchdemall/exhibit-2-r1.webp",
+     "w": 960,
+     "h": 1110
+    },
+    {
+     "src": "data/glitchdemall/exhibit-2-r2.webp",
+     "w": 960,
+     "h": 1143
+    },
+    {
+     "src": "data/glitchdemall/exhibit-2-r3.webp",
+     "w": 960,
+     "h": 1125
+    }
+   ],
+   "thumb": "data/glitchdemall/exhibit-2-thumb.webp",
+   "containers": [],
+   "sign_count": 16
+  },
+  {
+   "chunks": [
+    -33,
+    66,
+    -18,
+    81
+   ],
+   "x0": -528,
+   "z0": 1056,
+   "w": 256,
+   "d": 256,
+   "score": 5266.4,
+   "built_blocks": 1416,
+   "inhabited_ticks": 135226190,
+   "id": "exhibit-3",
+   "y_range": [
+    54,
+    132
+   ],
+   "scale": 4,
+   "materials": [
+    [
+     "stonebrick",
+     359,
+     "#7a797a"
+    ],
+    [
+     "rail",
+     215,
+     "#7d6e55"
+    ],
+    [
+     "red wool",
+     206,
+     "#a02722"
+    ],
+    [
+     "oak planks",
+     137,
+     "#a2824e"
+    ],
+    [
+     "blue wool",
+     136,
+     "#35399d"
+    ],
+    [
+     "redstone wire",
+     85,
+     "#be140a"
+    ],
+    [
+     "oak fence",
+     71,
+     "#a2824e"
+    ],
+    [
+     "golden rail",
+     34,
+     "#7d6e55"
+    ],
+    [
+     "gold block",
+     29,
+     "#f6d03d"
+    ],
+    [
+     "torch",
+     24,
+     "#ffd25a"
+    ]
+   ],
+   "views": [
+    {
+     "src": "data/glitchdemall/exhibit-3-r0.webp",
+     "w": 2048,
+     "h": 1108
+    },
+    {
+     "src": "data/glitchdemall/exhibit-3-r1.webp",
+     "w": 2048,
+     "h": 1116
+    },
+    {
+     "src": "data/glitchdemall/exhibit-3-r2.webp",
+     "w": 2048,
+     "h": 1060
+    },
+    {
+     "src": "data/glitchdemall/exhibit-3-r3.webp",
+     "w": 2048,
+     "h": 1086
+    }
+   ],
+   "thumb": "data/glitchdemall/exhibit-3-thumb.webp",
+   "containers": [
+    {
+     "pos": [
+      -344,
+      102,
+      1144
+     ],
+     "type": "dispenser",
+     "items": [
+      [
+       "fireworks",
+       575
+      ]
+     ],
+     "total": 575
+    },
+    {
+     "pos": [
+      -338,
+      102,
+      1144
+     ],
+     "type": "dispenser",
+     "items": [
+      [
+       "fireworks",
+       575
+      ]
+     ],
+     "total": 575
+    },
+    {
+     "pos": [
+      -363,
+      66,
+      1068
+     ],
+     "type": "dispenser",
+     "items": [
+      [
+       "arrow",
+       113
+      ]
+     ],
+     "total": 113
+    },
+    {
+     "pos": [
+      -369,
+      66,
+      1068
+     ],
+     "type": "dispenser",
+     "items": [
+      [
+       "arrow",
+       91
+      ]
+     ],
+     "total": 91
+    },
+    {
+     "pos": [
+      -371,
+      66,
+      1068
+     ],
+     "type": "dispenser",
+     "items": [
+      [
+       "arrow",
+       91
+      ]
+     ],
+     "total": 91
+    },
+    {
+     "pos": [
+      -370,
+      66,
+      1064
+     ],
+     "type": "dispenser",
+     "items": [
+      [
+       "arrow",
+       91
+      ]
+     ],
+     "total": 91
+    },
+    {
+     "pos": [
+      -365,
+      66,
+      1068
+     ],
+     "type": "dispenser",
+     "items": [
+      [
+       "arrow",
+       91
+      ]
+     ],
+     "total": 91
+    },
+    {
+     "pos": [
+      -367,
+      66,
+      1068
+     ],
+     "type": "dispenser",
+     "items": [
+      [
+       "arrow",
+       91
+      ]
+     ],
+     "total": 91
+    },
+    {
+     "pos": [
+      -364,
+      66,
+      1064
+     ],
+     "type": "dispenser",
+     "items": [
+      [
+       "arrow",
+       91
+      ]
+     ],
+     "total": 91
+    },
+    {
+     "pos": [
+      -366,
+      66,
+      1064
+     ],
+     "type": "dispenser",
+     "items": [
+      [
+       "arrow",
+       91
+      ]
+     ],
+     "total": 91
+    },
+    {
+     "pos": [
+      -368,
+      66,
+      1064
+     ],
+     "type": "dispenser",
+     "items": [
+      [
+       "arrow",
+       91
+      ]
+     ],
+     "total": 91
+    },
+    {
+     "pos": [
+      -342,
+      99,
+      1137
+     ],
+     "type": "chest",
+     "items": [
+      [
+       "paper",
+       54
+      ]
+     ],
+     "total": 54
+    }
+   ],
+   "sign_count": 4
+  }
+ ],
+ "other_dims": null
+}

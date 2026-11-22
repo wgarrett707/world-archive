@@ -1,0 +1,2214 @@
+{
+ "id": "coronacraft-save",
+ "folder": "CoronaCraft - save.mcworld",
+ "edition": "Bedrock",
+ "level_name": "CoronaCraft - Copy",
+ "version": "1.16.210",
+ "game_mode": "Survival",
+ "hardcore": false,
+ "cheats": true,
+ "generator": "Infinite",
+ "seed": "3515352338",
+ "spawn": [
+  115,
+  64,
+  -43
+ ],
+ "last_played": "2021-04-04T20:10:22Z",
+ "world_ticks": 9720936,
+ "multiplayer": true,
+ "players": [
+  {
+   "pos": [
+    -4372,
+    66,
+    -186
+   ],
+   "dimension": 0,
+   "xp_level": 13,
+   "game_mode": "Survival",
+   "inventory": [
+    [
+     "torch",
+     158
+    ],
+    [
+     "dye",
+     73
+    ],
+    [
+     "planks",
+     34
+    ],
+    [
+     "coal",
+     32
+    ],
+    [
+     "dirt",
+     22
+    ],
+    [
+     "iron_ingot",
+     15
+    ],
+    [
+     "birch_door",
+     14
+    ],
+    [
+     "stone",
+     8
+    ],
+    [
+     "string",
+     8
+    ],
+    [
+     "baked_potato",
+     7
+    ],
+    [
+     "rotten_flesh",
+     6
+    ],
+    [
+     "kelp",
+     6
+    ]
+   ]
+  },
+  {
+   "pos": [
+    111,
+    67,
+    57
+   ],
+   "dimension": 0,
+   "xp_level": 39,
+   "game_mode": "Survival",
+   "inventory": [
+    [
+     "planks",
+     159
+    ],
+    [
+     "wool",
+     72
+    ],
+    [
+     "arrow",
+     66
+    ],
+    [
+     "torch",
+     64
+    ],
+    [
+     "log",
+     56
+    ],
+    [
+     "cooked_fish",
+     48
+    ],
+    [
+     "fence",
+     47
+    ],
+    [
+     "wooden_slab",
+     38
+    ],
+    [
+     "spruce_stairs",
+     26
+    ],
+    [
+     "cooked_beef",
+     3
+    ],
+    [
+     "stick",
+     3
+    ],
+    [
+     "bow",
+     2
+    ]
+   ]
+  },
+  {
+   "pos": [
+    252,
+    74,
+    -77
+   ],
+   "dimension": 0,
+   "xp_level": 18,
+   "game_mode": "Survival",
+   "inventory": [
+    [
+     "cobblestone",
+     93
+    ],
+    [
+     "torch",
+     83
+    ],
+    [
+     "carrot",
+     55
+    ],
+    [
+     "redstone",
+     31
+    ],
+    [
+     "dirt",
+     23
+    ],
+    [
+     "stone",
+     21
+    ],
+    [
+     "planks",
+     17
+    ],
+    [
+     "redstone_torch",
+     12
+    ],
+    [
+     "dye",
+     12
+    ],
+    [
+     "iron_ore",
+     7
+    ],
+    [
+     "iron_pickaxe",
+     3
+    ],
+    [
+     "wheat_seeds",
+     3
+    ]
+   ]
+  },
+  {
+   "pos": [
+    1787,
+    66,
+    -33217
+   ],
+   "dimension": 0,
+   "xp_level": 13,
+   "game_mode": "Survival",
+   "inventory": [
+    [
+     "cobblestone",
+     238
+    ],
+    [
+     "bread",
+     35
+    ],
+    [
+     "gravel",
+     33
+    ],
+    [
+     "dirt",
+     19
+    ],
+    [
+     "stone",
+     16
+    ],
+    [
+     "torch",
+     7
+    ],
+    [
+     "obsidian",
+     5
+    ],
+    [
+     "planks",
+     5
+    ],
+    [
+     "bone",
+     3
+    ],
+    [
+     "fish",
+     3
+    ],
+    [
+     "flint",
+     3
+    ],
+    [
+     "coal",
+     3
+    ]
+   ]
+  },
+  {
+   "pos": [
+    123,
+    70,
+    -102
+   ],
+   "dimension": 0,
+   "xp_level": 5,
+   "game_mode": "Survival",
+   "inventory": [
+    [
+     "book",
+     60
+    ],
+    [
+     "emerald",
+     24
+    ],
+    [
+     "baked_potato",
+     14
+    ],
+    [
+     "diamond_sword",
+     1
+    ],
+    [
+     "diamond_pickaxe",
+     1
+    ],
+    [
+     "stone_hoe",
+     1
+    ],
+    [
+     "iron_axe",
+     1
+    ],
+    [
+     "diamond_shovel",
+     1
+    ],
+    [
+     "shulker_box",
+     1
+    ],
+    [
+     "bow",
+     1
+    ],
+    [
+     "arrow",
+     1
+    ]
+   ]
+  },
+  {
+   "pos": [
+    -2,
+    66,
+    85
+   ],
+   "dimension": 0,
+   "xp_level": 7,
+   "game_mode": "Survival",
+   "inventory": [
+    [
+     "netherrack",
+     118
+    ],
+    [
+     "torch",
+     83
+    ],
+    [
+     "soul_sand",
+     23
+    ],
+    [
+     "potato",
+     23
+    ],
+    [
+     "magma",
+     21
+    ],
+    [
+     "baked_potato",
+     19
+    ],
+    [
+     "stick",
+     7
+    ],
+    [
+     "cooked_beef",
+     5
+    ],
+    [
+     "iron_sword",
+     2
+    ],
+    [
+     "wheat_seeds",
+     2
+    ],
+    [
+     "brown_mushroom",
+     2
+    ],
+    [
+     "cooked_chicken",
+     2
+    ]
+   ]
+  },
+  {
+   "pos": [
+    -161,
+    13,
+    -62
+   ],
+   "dimension": 0,
+   "xp_level": 13,
+   "game_mode": "Survival",
+   "inventory": [
+    [
+     "cobblestone",
+     384
+    ],
+    [
+     "dye",
+     83
+    ],
+    [
+     "stone",
+     61
+    ],
+    [
+     "redstone",
+     43
+    ],
+    [
+     "gold_ingot",
+     29
+    ],
+    [
+     "iron_ingot",
+     26
+    ],
+    [
+     "reeds",
+     24
+    ],
+    [
+     "planks",
+     19
+    ],
+    [
+     "torch",
+     15
+    ],
+    [
+     "iron_ore",
+     15
+    ],
+    [
+     "coal",
+     13
+    ],
+    [
+     "muttonraw",
+     13
+    ]
+   ]
+  },
+  {
+   "pos": [
+    102,
+    66,
+    32
+   ],
+   "dimension": 0,
+   "xp_level": 11,
+   "game_mode": "?",
+   "inventory": [
+    [
+     "sand",
+     52
+    ],
+    [
+     "iron_ingot",
+     44
+    ],
+    [
+     "cobblestone",
+     33
+    ],
+    [
+     "planks",
+     19
+    ],
+    [
+     "cooked_fish",
+     17
+    ],
+    [
+     "iron_ore",
+     11
+    ],
+    [
+     "dirt",
+     11
+    ],
+    [
+     "diamond",
+     5
+    ],
+    [
+     "bone",
+     3
+    ],
+    [
+     "gravel",
+     3
+    ],
+    [
+     "nautilus_shell",
+     2
+    ],
+    [
+     "stick",
+     2
+    ]
+   ]
+  },
+  {
+   "pos": [
+    75,
+    71,
+    -16
+   ],
+   "dimension": 0,
+   "xp_level": 21,
+   "game_mode": "Survival",
+   "inventory": [
+    [
+     "iron_ingot",
+     28
+    ],
+    [
+     "iron_axe",
+     2
+    ],
+    [
+     "iron_sword",
+     2
+    ],
+    [
+     "iron_shovel",
+     2
+    ],
+    [
+     "water_bucket",
+     2
+    ],
+    [
+     "enchanted_book",
+     2
+    ],
+    [
+     "iron_pickaxe",
+     1
+    ],
+    [
+     "wooden_slab",
+     1
+    ],
+    [
+     "bone",
+     1
+    ],
+    [
+     "spruce_boat",
+     1
+    ],
+    [
+     "totem_of_undying",
+     1
+    ],
+    [
+     "shield",
+     1
+    ]
+   ]
+  },
+  {
+   "pos": [
+    453,
+    89,
+    -205
+   ],
+   "dimension": 0,
+   "xp_level": 20,
+   "game_mode": "Survival",
+   "inventory": [
+    [
+     "bow",
+     1
+    ],
+    [
+     "bone",
+     1
+    ]
+   ]
+  },
+  {
+   "pos": [
+    164,
+    59,
+    -81
+   ],
+   "dimension": 0,
+   "xp_level": 14,
+   "game_mode": "Survival",
+   "inventory": [
+    [
+     "melon",
+     40
+    ],
+    [
+     "dirt",
+     9
+    ],
+    [
+     "iron_ingot",
+     4
+    ],
+    [
+     "lead",
+     4
+    ],
+    [
+     "clock",
+     1
+    ],
+    [
+     "diamond_axe",
+     1
+    ],
+    [
+     "diamond_sword",
+     1
+    ],
+    [
+     "diamond_shovel",
+     1
+    ],
+    [
+     "diamond_pickaxe",
+     1
+    ]
+   ]
+  },
+  {
+   "pos": [
+    -349,
+    53,
+    53
+   ],
+   "dimension": 0,
+   "xp_level": 4,
+   "game_mode": "Survival",
+   "inventory": [
+    [
+     "rotten_flesh",
+     4
+    ],
+    [
+     "bone",
+     3
+    ],
+    [
+     "string",
+     2
+    ],
+    [
+     "bow",
+     2
+    ],
+    [
+     "diamond_axe",
+     1
+    ],
+    [
+     "diamond_pickaxe",
+     1
+    ],
+    [
+     "trident",
+     1
+    ],
+    [
+     "diamond_shovel",
+     1
+    ],
+    [
+     "spider_eye",
+     1
+    ],
+    [
+     "totem",
+     1
+    ],
+    [
+     "ender_pearl",
+     1
+    ],
+    [
+     "grass",
+     1
+    ]
+   ]
+  },
+  {
+   "pos": [
+    47,
+    72,
+    5
+   ],
+   "dimension": 0,
+   "xp_level": 0,
+   "game_mode": "?",
+   "inventory": [
+    [
+     "rotten_flesh",
+     1
+    ]
+   ]
+  },
+  {
+   "pos": [
+    91,
+    68,
+    -51
+   ],
+   "dimension": 0,
+   "xp_level": 0,
+   "game_mode": "?",
+   "inventory": []
+  },
+  {
+   "pos": [
+    102,
+    68,
+    -3
+   ],
+   "dimension": 0,
+   "xp_level": 0,
+   "game_mode": "?",
+   "inventory": [
+    [
+     "cobblestone",
+     96
+    ],
+    [
+     "planks",
+     52
+    ],
+    [
+     "beetroot",
+     40
+    ],
+    [
+     "wool",
+     39
+    ],
+    [
+     "stick",
+     30
+    ],
+    [
+     "obsidian",
+     27
+    ],
+    [
+     "log",
+     19
+    ],
+    [
+     "iron_sword",
+     1
+    ],
+    [
+     "trident",
+     1
+    ],
+    [
+     "stone_pickaxe",
+     1
+    ],
+    [
+     "flint_and_steel",
+     1
+    ],
+    [
+     "cooked_mutton",
+     1
+    ]
+   ]
+  },
+  {
+   "pos": [
+    1052,
+    32,
+    -1164
+   ],
+   "dimension": 0,
+   "xp_level": 0,
+   "game_mode": "Survival",
+   "inventory": []
+  },
+  {
+   "pos": [
+    181,
+    95,
+    59
+   ],
+   "dimension": 0,
+   "xp_level": 0,
+   "game_mode": "Survival",
+   "inventory": []
+  },
+  {
+   "pos": [
+    80,
+    67,
+    -20
+   ],
+   "dimension": 0,
+   "xp_level": 27,
+   "game_mode": "Survival",
+   "inventory": [
+    [
+     "arrow",
+     123
+    ],
+    [
+     "baked_potato",
+     40
+    ],
+    [
+     "torch",
+     36
+    ],
+    [
+     "dirt",
+     19
+    ],
+    [
+     "golden_apple",
+     5
+    ],
+    [
+     "rotten_flesh",
+     4
+    ],
+    [
+     "porkchop",
+     3
+    ],
+    [
+     "string",
+     3
+    ],
+    [
+     "spider_eye",
+     2
+    ],
+    [
+     "diamond_pickaxe",
+     1
+    ],
+    [
+     "diamond_sword",
+     1
+    ],
+    [
+     "bow",
+     1
+    ]
+   ]
+  },
+  {
+   "pos": [
+    105,
+    66,
+    -32
+   ],
+   "dimension": 0,
+   "xp_level": 39,
+   "game_mode": "Survival",
+   "inventory": [
+    [
+     "planks",
+     143
+    ],
+    [
+     "arrow",
+     66
+    ],
+    [
+     "torch",
+     58
+    ],
+    [
+     "log",
+     56
+    ],
+    [
+     "carrot",
+     47
+    ],
+    [
+     "fence",
+     43
+    ],
+    [
+     "wooden_slab",
+     26
+    ],
+    [
+     "spruce_stairs",
+     26
+    ],
+    [
+     "cobblestone",
+     18
+    ],
+    [
+     "double_stone_slab",
+     12
+    ],
+    [
+     "quartz_block",
+     6
+    ],
+    [
+     "bow",
+     2
+    ]
+   ],
+   "host": true
+  }
+ ],
+ "dimensions": [],
+ "dates": {
+  "first": null,
+  "last": "2021-04-04"
+ },
+ "icon": "data/coronacraft-save/icon.jpeg",
+ "chunks": 236925,
+ "area_km2": 60.65,
+ "top_blocks": [
+  [
+   "stone",
+   2394373593,
+   "#7d7d7d"
+  ],
+  [
+   "water",
+   404261949,
+   "#3e76de"
+  ],
+  [
+   "bedrock",
+   212799615,
+   "#555555"
+  ],
+  [
+   "dirt",
+   195701502,
+   "#866043"
+  ],
+  [
+   "gravel",
+   171672214,
+   "#837f7e"
+  ],
+  [
+   "granite stone",
+   143539989,
+   "#956755"
+  ],
+  [
+   "diorite stone",
+   142662445,
+   "#bcbcbc"
+  ],
+  [
+   "andesite stone",
+   134731207,
+   "#888888"
+  ],
+  [
+   "coal ore",
+   40328716,
+   "#737373"
+  ],
+  [
+   "grass",
+   31273555,
+   "#689e3a"
+  ],
+  [
+   "sand",
+   29490132,
+   "#dbcfa3"
+  ],
+  [
+   "lava",
+   22883492,
+   "#d4600e"
+  ],
+  [
+   "iron ore",
+   22434192,
+   "#88827f"
+  ],
+  [
+   "default sandstone",
+   18450817,
+   "#d8cb9b"
+  ],
+  [
+   "oak leaves",
+   11435551,
+   "#3b7a1e"
+  ],
+  [
+   "snow layer",
+   8820752,
+   "#f9fefe"
+  ]
+ ],
+ "built_blocks": [
+  [
+   "oak planks",
+   1520974,
+   "#a2824e"
+  ],
+  [
+   "oak fence",
+   805251,
+   "#a2824e"
+  ],
+  [
+   "mossy cobblestone",
+   318438,
+   "#6e765e"
+  ],
+  [
+   "rail",
+   230972,
+   "#7d6e55"
+  ],
+  [
+   "stonebrick",
+   84702,
+   "#7a797a"
+  ],
+  [
+   "spruce planks",
+   69022,
+   "#725430"
+  ],
+  [
+   "oak stairs",
+   48501,
+   "#a2824e"
+  ],
+  [
+   "mossy stonebrick",
+   46425,
+   "#737969"
+  ],
+  [
+   "torch",
+   23219,
+   "#ffd25a"
+  ],
+  [
+   "spruce stairs",
+   19685,
+   "#725430"
+  ],
+  [
+   "dark oak planks",
+   17681,
+   "#422b14"
+  ],
+  [
+   "chest",
+   13450,
+   "#a27430"
+  ],
+  [
+   "mob spawner",
+   10360,
+   "#233241"
+  ],
+  [
+   "birch planks",
+   9184,
+   "#c0af79"
+  ],
+  [
+   "jungle planks",
+   7659,
+   "#a07350"
+  ],
+  [
+   "dark oak stairs",
+   7399,
+   "#422b14"
+  ]
+ ],
+ "total_built": 3232922,
+ "entities": [
+  [
+   "item",
+   14404
+  ],
+  [
+   "chest_minecart",
+   3807
+  ],
+  [
+   "drowned",
+   3156
+  ],
+  [
+   "zombie",
+   2205
+  ],
+  [
+   "squid",
+   1260
+  ],
+  [
+   "creeper",
+   1192
+  ],
+  [
+   "falling_block",
+   1142
+  ],
+  [
+   "skeleton",
+   1139
+  ],
+  [
+   "spider",
+   1081
+  ],
+  [
+   "sheep",
+   947
+  ],
+  [
+   "villager_v2",
+   815
+  ],
+  [
+   "dolphin",
+   719
+  ],
+  [
+   "rabbit",
+   650
+  ],
+  [
+   "pig",
+   647
+  ]
+ ],
+ "sign_count": 115,
+ "container_count": 459,
+ "book_count": 12,
+ "map": {
+  "src": "data/coronacraft-save/map.webp",
+  "w": 1400,
+  "h": 1400,
+  "x0": -1456,
+  "z0": -1568,
+  "scale": 2.2057142857142855,
+  "cropped": true,
+  "chunks_in_view": 29796,
+  "clusters": 563
+ },
+ "exhibits": [
+  {
+   "chunks": [
+    -2,
+    -9,
+    12,
+    6
+   ],
+   "x0": -32,
+   "z0": -144,
+   "w": 240,
+   "d": 256,
+   "score": 7019.9,
+   "built_blocks": 20452,
+   "inhabited_ticks": 0,
+   "id": "exhibit-1",
+   "y_range": [
+    54,
+    132
+   ],
+   "scale": 4,
+   "materials": [
+    [
+     "spruce planks",
+     2760,
+     "#725430"
+    ],
+    [
+     "oak planks",
+     2286,
+     "#a2824e"
+    ],
+    [
+     "white wool",
+     1781,
+     "#e9ecec"
+    ],
+    [
+     "default quartz block",
+     1002,
+     "#ebe5de"
+    ],
+    [
+     "stonebrick",
+     899,
+     "#7a797a"
+    ],
+    [
+     "spruce stairs",
+     881,
+     "#725430"
+    ],
+    [
+     "glass",
+     865,
+     "#d2e4ec"
+    ],
+    [
+     "oak slab",
+     822,
+     "#a2824e"
+    ],
+    [
+     "spruce fence",
+     758,
+     "#725430"
+    ],
+    [
+     "oak stairs",
+     756,
+     "#a2824e"
+    ]
+   ],
+   "views": [
+    {
+     "src": "data/coronacraft-save/exhibit-1-r0.webp",
+     "w": 1984,
+     "h": 1040
+    },
+    {
+     "src": "data/coronacraft-save/exhibit-1-r1.webp",
+     "w": 1984,
+     "h": 1070
+    },
+    {
+     "src": "data/coronacraft-save/exhibit-1-r2.webp",
+     "w": 1984,
+     "h": 1058
+    },
+    {
+     "src": "data/coronacraft-save/exhibit-1-r3.webp",
+     "w": 1984,
+     "h": 1028
+    }
+   ],
+   "thumb": "data/coronacraft-save/exhibit-1-thumb.webp",
+   "containers": [
+    {
+     "pos": [
+      110,
+      72,
+      -107
+     ],
+     "type": "Chest",
+     "items": [
+      [
+       "redstone",
+       1664
+      ],
+      [
+       "tripwire_hook",
+       14
+      ]
+     ],
+     "total": 1678
+    },
+    {
+     "pos": [
+      67,
+      63,
+      -56
+     ],
+     "type": "Chest",
+     "items": [
+      [
+       "potato",
+       786
+      ],
+      [
+       "carrot",
+       380
+      ],
+      [
+       "beetroot",
+       320
+      ],
+      [
+       "beetroot_seeds",
+       124
+      ]
+     ],
+     "total": 1610
+    },
+    {
+     "pos": [
+      129,
+      64,
+      24
+     ],
+     "type": "Chest",
+     "items": [
+      [
+       "cobblestone",
+       1600
+      ]
+     ],
+     "total": 1600
+    },
+    {
+     "pos": [
+      49,
+      76,
+      56
+     ],
+     "type": "Chest",
+     "items": [
+      [
+       "cobblestone",
+       576
+      ],
+      [
+       "gravel",
+       409
+      ],
+      [
+       "netherrack",
+       226
+      ],
+      [
+       "mossy_cobblestone",
+       128
+      ],
+      [
+       "stone",
+       7
+      ],
+      [
+       "double_stone_slab",
+       5
+      ],
+      [
+       "grindstone",
+       3
+      ],
+      [
+       "smooth_stone",
+       3
+      ]
+     ],
+     "total": 1358
+    },
+    {
+     "pos": [
+      74,
+      63,
+      -14
+     ],
+     "type": "Chest",
+     "items": [
+      [
+       "melon_slice",
+       704
+      ],
+      [
+       "beetroot_seeds",
+       138
+      ],
+      [
+       "wheat_seeds",
+       128
+      ],
+      [
+       "beetroot",
+       90
+      ],
+      [
+       "wheat",
+       64
+      ],
+      [
+       "sugar_cane",
+       64
+      ],
+      [
+       "carrot",
+       64
+      ],
+      [
+       "pumpkin",
+       25
+      ]
+     ],
+     "total": 1316
+    },
+    {
+     "pos": [
+      126,
+      72,
+      -104
+     ],
+     "type": "Chest",
+     "items": [
+      [
+       "carrot",
+       320
+      ],
+      [
+       "cod",
+       309
+      ],
+      [
+       "sweet_berries",
+       135
+      ],
+      [
+       "cooked_salmon",
+       128
+      ],
+      [
+       "salmon",
+       113
+      ],
+      [
+       "pufferfish",
+       64
+      ],
+      [
+       "melon_slice",
+       64
+      ],
+      [
+       "melon_block",
+       49
+      ]
+     ],
+     "total": 1259
+    },
+    {
+     "pos": [
+      74,
+      62,
+      -14
+     ],
+     "type": "Chest",
+     "items": [
+      [
+       "beetroot",
+       520
+      ],
+      [
+       "melon_slice",
+       384
+      ],
+      [
+       "wheat_seeds",
+       192
+      ],
+      [
+       "beetroot_seeds",
+       64
+      ],
+      [
+       "carrot",
+       5
+      ],
+      [
+       "wheat",
+       4
+      ],
+      [
+       "spider_eye",
+       2
+      ],
+      [
+       "red_flower",
+       2
+      ]
+     ],
+     "total": 1175
+    },
+    {
+     "pos": [
+      83,
+      61,
+      -14
+     ],
+     "type": "Chest",
+     "items": [
+      [
+       "lapis_lazuli",
+       545
+      ],
+      [
+       "iron_ingot",
+       476
+      ],
+      [
+       "gold_ingot",
+       108
+      ],
+      [
+       "flint",
+       31
+      ],
+      [
+       "iron_nugget",
+       7
+      ],
+      [
+       "charcoal",
+       2
+      ]
+     ],
+     "total": 1169
+    },
+    {
+     "pos": [
+      126,
+      72,
+      -105
+     ],
+     "type": "Chest",
+     "items": [
+      [
+       "carrot",
+       363
+      ],
+      [
+       "cooked_salmon",
+       197
+      ],
+      [
+       "potato",
+       192
+      ],
+      [
+       "beetroot",
+       128
+      ],
+      [
+       "salmon",
+       64
+      ],
+      [
+       "cod",
+       64
+      ],
+      [
+       "cooked_cod",
+       64
+      ],
+      [
+       "pufferfish",
+       28
+      ]
+     ],
+     "total": 1135
+    },
+    {
+     "pos": [
+      116,
+      72,
+      -105
+     ],
+     "type": "Chest",
+     "items": [
+      [
+       "coal",
+       886
+      ],
+      [
+       "lapis_lazuli",
+       214
+      ],
+      [
+       "redstone",
+       16
+      ],
+      [
+       "gold_nugget",
+       10
+      ],
+      [
+       "iron_nugget",
+       4
+      ],
+      [
+       "charcoal",
+       2
+      ]
+     ],
+     "total": 1132
+    },
+    {
+     "pos": [
+      82,
+      61,
+      -14
+     ],
+     "type": "Chest",
+     "items": [
+      [
+       "redstone",
+       734
+      ],
+      [
+       "clay_ball",
+       156
+      ],
+      [
+       "coal",
+       105
+      ],
+      [
+       "diamond",
+       85
+      ],
+      [
+       "emerald",
+       32
+      ],
+      [
+       "quartz",
+       14
+      ]
+     ],
+     "total": 1126
+    },
+    {
+     "pos": [
+      122,
+      72,
+      -104
+     ],
+     "type": "Chest",
+     "items": [
+      [
+       "sugar_cane",
+       305
+      ],
+      [
+       "wheat",
+       281
+      ],
+      [
+       "wheat_seeds",
+       190
+      ],
+      [
+       "melon_slice",
+       163
+      ],
+      [
+       "sapling",
+       33
+      ],
+      [
+       "sugar",
+       18
+      ],
+      [
+       "sweet_berries",
+       16
+      ],
+      [
+       "potato",
+       12
+      ]
+     ],
+     "total": 1039
+    }
+   ],
+   "sign_count": 60
+  },
+  {
+   "chunks": [
+    -2,
+    -9,
+    12,
+    6
+   ],
+   "x0": -176,
+   "z0": -272,
+   "w": 512,
+   "d": 512,
+   "score": 7019.9,
+   "built_blocks": 21726,
+   "inhabited_ticks": 0,
+   "wide": true,
+   "id": "exhibit-2",
+   "y_range": [
+    54,
+    132
+   ],
+   "scale": 2,
+   "materials": [
+    [
+     "spruce planks",
+     2841,
+     "#725430"
+    ],
+    [
+     "oak planks",
+     2479,
+     "#a2824e"
+    ],
+    [
+     "white wool",
+     1782,
+     "#e9ecec"
+    ],
+    [
+     "stonebrick",
+     1218,
+     "#7a797a"
+    ],
+    [
+     "default quartz block",
+     1002,
+     "#ebe5de"
+    ],
+    [
+     "spruce stairs",
+     881,
+     "#725430"
+    ],
+    [
+     "glass",
+     865,
+     "#d2e4ec"
+    ],
+    [
+     "oak slab",
+     822,
+     "#a2824e"
+    ],
+    [
+     "spruce fence",
+     761,
+     "#725430"
+    ],
+    [
+     "oak stairs",
+     756,
+     "#a2824e"
+    ]
+   ],
+   "views": [
+    {
+     "src": "data/coronacraft-save/exhibit-2-r0.webp",
+     "w": 2048,
+     "h": 1042
+    },
+    {
+     "src": "data/coronacraft-save/exhibit-2-r1.webp",
+     "w": 2048,
+     "h": 1068
+    },
+    {
+     "src": "data/coronacraft-save/exhibit-2-r2.webp",
+     "w": 2048,
+     "h": 1048
+    },
+    {
+     "src": "data/coronacraft-save/exhibit-2-r3.webp",
+     "w": 2048,
+     "h": 1042
+    }
+   ],
+   "thumb": "data/coronacraft-save/exhibit-2-thumb.webp",
+   "containers": [
+    {
+     "pos": [
+      110,
+      72,
+      -107
+     ],
+     "type": "Chest",
+     "items": [
+      [
+       "redstone",
+       1664
+      ],
+      [
+       "tripwire_hook",
+       14
+      ]
+     ],
+     "total": 1678
+    },
+    {
+     "pos": [
+      67,
+      63,
+      -56
+     ],
+     "type": "Chest",
+     "items": [
+      [
+       "potato",
+       786
+      ],
+      [
+       "carrot",
+       380
+      ],
+      [
+       "beetroot",
+       320
+      ],
+      [
+       "beetroot_seeds",
+       124
+      ]
+     ],
+     "total": 1610
+    },
+    {
+     "pos": [
+      129,
+      64,
+      24
+     ],
+     "type": "Chest",
+     "items": [
+      [
+       "cobblestone",
+       1600
+      ]
+     ],
+     "total": 1600
+    },
+    {
+     "pos": [
+      49,
+      76,
+      56
+     ],
+     "type": "Chest",
+     "items": [
+      [
+       "cobblestone",
+       576
+      ],
+      [
+       "gravel",
+       409
+      ],
+      [
+       "netherrack",
+       226
+      ],
+      [
+       "mossy_cobblestone",
+       128
+      ],
+      [
+       "stone",
+       7
+      ],
+      [
+       "double_stone_slab",
+       5
+      ],
+      [
+       "grindstone",
+       3
+      ],
+      [
+       "smooth_stone",
+       3
+      ]
+     ],
+     "total": 1358
+    },
+    {
+     "pos": [
+      74,
+      63,
+      -14
+     ],
+     "type": "Chest",
+     "items": [
+      [
+       "melon_slice",
+       704
+      ],
+      [
+       "beetroot_seeds",
+       138
+      ],
+      [
+       "wheat_seeds",
+       128
+      ],
+      [
+       "beetroot",
+       90
+      ],
+      [
+       "wheat",
+       64
+      ],
+      [
+       "sugar_cane",
+       64
+      ],
+      [
+       "carrot",
+       64
+      ],
+      [
+       "pumpkin",
+       25
+      ]
+     ],
+     "total": 1316
+    },
+    {
+     "pos": [
+      256,
+      14,
+      -18
+     ],
+     "type": "Chest",
+     "items": [
+      [
+       "cobblestone",
+       704
+      ],
+      [
+       "stone",
+       192
+      ],
+      [
+       "gravel",
+       128
+      ],
+      [
+       "iron_ingot",
+       64
+      ],
+      [
+       "lapis_lazuli",
+       64
+      ],
+      [
+       "redstone",
+       64
+      ],
+      [
+       "dirt",
+       52
+      ],
+      [
+       "diamond",
+       14
+      ]
+     ],
+     "total": 1307
+    },
+    {
+     "pos": [
+      126,
+      72,
+      -104
+     ],
+     "type": "Chest",
+     "items": [
+      [
+       "carrot",
+       320
+      ],
+      [
+       "cod",
+       309
+      ],
+      [
+       "sweet_berries",
+       135
+      ],
+      [
+       "cooked_salmon",
+       128
+      ],
+      [
+       "salmon",
+       113
+      ],
+      [
+       "pufferfish",
+       64
+      ],
+      [
+       "melon_slice",
+       64
+      ],
+      [
+       "melon_block",
+       49
+      ]
+     ],
+     "total": 1259
+    },
+    {
+     "pos": [
+      74,
+      62,
+      -14
+     ],
+     "type": "Chest",
+     "items": [
+      [
+       "beetroot",
+       520
+      ],
+      [
+       "melon_slice",
+       384
+      ],
+      [
+       "wheat_seeds",
+       192
+      ],
+      [
+       "beetroot_seeds",
+       64
+      ],
+      [
+       "carrot",
+       5
+      ],
+      [
+       "wheat",
+       4
+      ],
+      [
+       "spider_eye",
+       2
+      ],
+      [
+       "red_flower",
+       2
+      ]
+     ],
+     "total": 1175
+    },
+    {
+     "pos": [
+      83,
+      61,
+      -14
+     ],
+     "type": "Chest",
+     "items": [
+      [
+       "lapis_lazuli",
+       545
+      ],
+      [
+       "iron_ingot",
+       476
+      ],
+      [
+       "gold_ingot",
+       108
+      ],
+      [
+       "flint",
+       31
+      ],
+      [
+       "iron_nugget",
+       7
+      ],
+      [
+       "charcoal",
+       2
+      ]
+     ],
+     "total": 1169
+    },
+    {
+     "pos": [
+      126,
+      72,
+      -105
+     ],
+     "type": "Chest",
+     "items": [
+      [
+       "carrot",
+       363
+      ],
+      [
+       "cooked_salmon",
+       197
+      ],
+      [
+       "potato",
+       192
+      ],
+      [
+       "beetroot",
+       128
+      ],
+      [
+       "salmon",
+       64
+      ],
+      [
+       "cod",
+       64
+      ],
+      [
+       "cooked_cod",
+       64
+      ],
+      [
+       "pufferfish",
+       28
+      ]
+     ],
+     "total": 1135
+    },
+    {
+     "pos": [
+      116,
+      72,
+      -105
+     ],
+     "type": "Chest",
+     "items": [
+      [
+       "coal",
+       886
+      ],
+      [
+       "lapis_lazuli",
+       214
+      ],
+      [
+       "redstone",
+       16
+      ],
+      [
+       "gold_nugget",
+       10
+      ],
+      [
+       "iron_nugget",
+       4
+      ],
+      [
+       "charcoal",
+       2
+      ]
+     ],
+     "total": 1132
+    },
+    {
+     "pos": [
+      82,
+      61,
+      -14
+     ],
+     "type": "Chest",
+     "items": [
+      [
+       "redstone",
+       734
+      ],
+      [
+       "clay_ball",
+       156
+      ],
+      [
+       "coal",
+       105
+      ],
+      [
+       "diamond",
+       85
+      ],
+      [
+       "emerald",
+       32
+      ],
+      [
+       "quartz",
+       14
+      ]
+     ],
+     "total": 1126
+    }
+   ],
+   "sign_count": 60
+  }
+ ],
+ "other_dims": {
+  "2": 4318,
+  "1": 2962
+ }
+}

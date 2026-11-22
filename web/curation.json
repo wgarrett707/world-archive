@@ -1,0 +1,125 @@
+{
+  "collection": {
+    "title": "The World Archive",
+    "eyebrow": "A museum of saved worlds · 2017 – 2021",
+    "intro": "Minecraft worlds built as a kid and a teenager with friends — minigame hubs, pixel art, roller coasters and a pandemic-era survival town — recovered from old save files and preserved here as dioramas.",
+    "wings": [
+      {
+        "id": "glitchdemall",
+        "title": "The Glitchdemall Saves",
+        "intro": "One multiplayer creative world, backed up again and again as it grew. The copies run from May 2017 to August 2018, so walking through them in order shows a minigame hub being built up: a parkour tour of every block, a Wipeout course, Build Battle, a Pac-Man board, room escapes and a giant pixel-art mural."
+      },
+      {
+        "id": "flat",
+        "title": "Superflat Experiments",
+        "intro": "Two flat creative worlds from 2018–2019, where the same group moved on to bigger set pieces: tribute statues, a board game the size of a field, coasters and obstacle courses."
+      },
+      {
+        "id": "bedrock",
+        "title": "CoronaCraft",
+        "intro": "A Bedrock Edition survival world played through the 2020 lockdowns: a sprawling town, farms and statues across nearly a quarter-million explored chunks."
+      }
+    ]
+  },
+  "worlds": {
+    "glitchdemall": {
+      "wing": "glitchdemall",
+      "title": "Glitchdemall I",
+      "summary": "The earliest surviving copy: a rainbow parkour tower, a Wipeout course and the first minigames.",
+      "description": "The oldest backup of the Glitchdemall world, last saved on June 7, 2017 — the same day Minecraft 1.12 came out. Seven players had already put about 40 hours in.\n\nMost of the activity is in a desert-and-plains valley: a rainbow pillar towering to the build limit (the start of a parkour ride past nearly every block in the game), a giant grey cube, a Wipeout-style obstacle course, a red minecart ride, a class-select room and a tower with a legendary reputation for killing players.\n\nOddly, the world spawn sits at X 39,887 — far from everything that was built — and there are fragments of terrain more than 120,000 blocks out. Something glitchy happened here, which may be where the name came from.",
+      "exhibits": {
+        "exhibit-1": { "title": "The First Hub", "caption": "The rainbow pillar is the start of the block tour: you jump into a hole at the top and ride down past almost every block in the game. Nearby are a kit room with Archer and Warrior classes, the Wipeout course, a racing course and the grey arenas that would later grow into the minigame hub." },
+        "exhibit-2": { "title": "Knockback Arena", "caption": "A glass-walled PvP arena hovering above a small island, with its rules posted on the walls: adventure mode only, a short grace period, and the last player left in the arena wins. A spectator area sits on top." },
+        "exhibit-3": { "title": "The Hills", "caption": "Wooded hills and a sheltered bay south of the hub. The two grey-roofed arenas on the right are the first minigame rooms, which would grow into the full hub over the next few backups." }
+      }
+    },
+    "glitchdemall-1": {
+      "wing": "glitchdemall",
+      "title": "Glitchdemall II",
+      "summary": "A backup made one day later, after another nine hours of play.",
+      "description": "Saved June 8, 2017, one day after the first copy. The changes are small: about nine more hours of play, a few more chunks explored, and touch-ups around the hub. It's a good one to flip back and forth with Glitchdemall I to spot what changed.",
+      "exhibits": {
+        "exhibit-1": { "title": "The First Hub, a day later", "caption": "The same valley as in Glitchdemall I, a day later: the rainbow tower, the kit room and the Wipeout course." },
+        "exhibit-2": { "title": "Knockback Arena", "caption": "The glass PvP arena, unchanged." },
+        "exhibit-3": { "title": "The Hills", "caption": "The wooded hills and bay south of the hub, with the first grey-roofed arenas at the edge." }
+      }
+    },
+    "glitchdemall-2": {
+      "wing": "glitchdemall",
+      "title": "Glitchdemall III",
+      "summary": "The minigame hub takes shape: Build Battle, a drinks stand and a dispenser full of challenge books.",
+      "description": "By June 12, 2017 the world has turned into a proper minigame server. A central hub links to Mob Survival, Wipeout, a race course, a tower climb, Room Escape and a Build Battle with a full page of house rules: two players draw a build idea and a challenge card from dispensers, get five minutes, and score each other out of five.\n\nThe challenge books are still sitting in the dispensers, with twists like building in 2-D or only using 100 blocks. There's also a drinks stand stocked with sodas from around the world.",
+      "exhibits": {
+        "exhibit-1": { "title": "The Minigame Hub", "caption": "The new hub. Each grey room is a different game — Mob Survival, Wipeout, Build Battle, Room Escape, a race and a tower climb — with one still waiting to be built." },
+        "exhibit-2": { "title": "Knockback Arena", "caption": "The glass PvP arena again, still standing over the sea." },
+        "exhibit-3": { "title": "The Block Tour", "caption": "The rainbow pillar and the original hub, now with a plants section added to the ride." }
+      }
+    },
+    "glitchdemall-3": {
+      "wing": "glitchdemall",
+      "title": "Glitchdemall IV",
+      "summary": "The busiest early copy: Pac-Man, a labyrinth, room escapes and nearly 200 signs.",
+      "description": "Saved June 17, 2017, after about 91 hours of combined play across seven players, with a credits board in the lobby for the people who built it.\n\nNew this time: a giant Pac-Man board (complete with 1UP and HIGH score), a labyrinth, a mob-extermination arena, a parkour course, a five-level upgrade challenge out over the water, and a pair of signs promising free diamonds that lead straight into a trap.",
+      "exhibits": {
+        "exhibit-1": { "title": "Pac-Man & the Lobby", "caption": "The giant Pac-Man board floats over the bay. Below it are the hub lobby, the labyrinth, a room escape with a final lever to find, and the parkour course." },
+        "exhibit-2": { "title": "Level Up", "caption": "A string of rooms out at sea: Level 1 through Level 5, each with an upgrade room in between. The white enclosure is a redstone-wired arena." },
+        "exhibit-3": { "title": "Minigame Row", "caption": "The original game rooms (Mob Survival, Wipeout, Build Battle, the race), the drinks stand, and the free-diamonds trap." }
+      }
+    },
+    "glitchdemall-4": {
+      "wing": "glitchdemall",
+      "title": "Glitchdemall IV (copy)",
+      "summary": "An identical second copy of Glitchdemall IV.",
+      "description": "This save appears to be an exact duplicate of Glitchdemall IV — same play time, same last-save date, same builds — so it was probably just a spare backup. It's kept here for completeness; see Glitchdemall IV for the full story.",
+      "exhibits": {
+        "exhibit-1": { "title": "Pac-Man & the Lobby", "caption": "Identical to Glitchdemall IV." },
+        "exhibit-2": { "title": "Level Up", "caption": "Identical to Glitchdemall IV." },
+        "exhibit-3": { "title": "Minigame Row", "caption": "Identical to Glitchdemall IV." }
+      }
+    },
+    "glitchdemall-6": {
+      "wing": "glitchdemall",
+      "title": "Glitchdemall V",
+      "summary": "A year later: 12 players, 190 hours, a giant pixel-art mural and a 100-block black slab in the sky.",
+      "description": "The last and largest copy, kept going until August 1, 2018. Twelve different players had joined, adding up to about 190 hours, and the world had grown to over 15,000 chunks.\n\nThe centrepiece is a huge pixel-art mural laid out on the ground, packed with characters, flags and a rainbow — it looks like art recreated from an online collaborative pixel canvas. Elsewhere: a blue penguin statue, a sky-high tower of every block, the Pac-Man board, a pirate ship, a pair of rival thrones, and a shelf of player-written books, from a pirate's log to short stories.",
+      "exhibit_order": ["exhibit-2", "exhibit-3", "exhibit-1"],
+      "exhibits": {
+        "exhibit-2": { "title": "The Pixel Mural", "caption": "The hub in its final form: the pixel-art mural (bottom right), the Pac-Man board floating over the bay, the minigame rooms, a red-and-blue coaster track, a looping red trail over the water and a guessing game." },
+        "exhibit-3": { "title": "Level Up", "caption": "The five-level upgrade challenge strung out across the sea, next to a big white walled arena with a small maze tucked into one corner." },
+        "exhibit-1": { "title": "The Black Slab", "caption": "A roughly 100×100 slab of black wool hanging over the ocean. It could have been a pixel-art canvas that was never painted, or the art may face downward, where it can't be seen from above. The Pac-Man board sits on the shore below." }
+      }
+    },
+    "glitchdemall-7": {
+      "wing": "flat",
+      "title": "The Terracotta Field",
+      "summary": "A one-day superflat experiment: hundreds of identical rainbow terracotta pieces in neat rows.",
+      "description": "A superflat world made and abandoned on August 4, 2018 — three players spent about an hour in it. Almost the whole thing is one enormous grid of small, identical terracotta structures in yellow, light blue, red, lime and orange, almost certainly stamped out with the <code>/clone</code> command.\n\nIn one corner sit a few olive-green tanks, and in another a small village with farms and 45 villagers.",
+      "hide_exhibits": ["exhibit-3"],
+      "exhibits": {
+        "exhibit-1": { "title": "Rows & Tanks", "caption": "The cloned field running to the horizon, with a little column of green tanks parked at its edge." },
+        "exhibit-2": { "title": "The Village Corner", "caption": "A small village and its fields, surrounded by more of the endless grid." }
+      }
+    },
+    "glitchdemall-8": {
+      "wing": "flat",
+      "title": "Glitchdemall Flatlands",
+      "summary": "A tribute statue, a 100-square board game, a mini coaster and an obstacle course to “heaven”.",
+      "description": "A superflat world played from August 2018 to July 2019 by five players, about 72 hours in total. It's full of inside jokes and tributes to favourite YouTubers, including a giant top-hatted figure holding up a subscriber-milestone sign, and a trivia course quizzing players about a channel's upload history.\n\nThere's a 100-square board game laid out in the sky, an obstacle course with its own house rules that ends at a golden pressure plate in “heaven”, and a mini roller coaster.",
+      "exhibits": {
+        "exhibit-1": { "title": "Tribute Plaza", "caption": "The top-hatted statue and his milestone sign, black-walled rooms full of mini-builds, a parade of coloured cars, a white mansion and a treehouse. The board game and obstacle course are around here too." },
+        "exhibit-2": { "title": "The Shipping Box", "caption": "Thousands of blocks away from everything else: a giant cardboard-coloured box labelled “this side up” on every side, beside a small loading dock." }
+      }
+    },
+    "coronacraft-save": {
+      "wing": "bedrock",
+      "title": "CoronaCraft",
+      "era": "2020 – April 2021",
+      "summary": "A lockdown-era Bedrock survival server: a whole town at spawn, a giant cat statue and 236,000 explored chunks.",
+      "description": "A Bedrock Edition survival world shared by a big group of friends during the pandemic — the name says it all. The save's oldest version marker points back to Bedrock 1.14, and it was last opened on April 4, 2021 in 1.16.210. The save holds data for 19 players, and the world clock had run for over 400 Minecraft days.\n\nAlmost all the building happened in one town around spawn: a shared storage hall with chests sorted by category (including one just for Ender Dragon loot), a community garden, a historic community hut, a chicken coop, plenty of plots marked as private property, a horse graveyard and a temple with rave reviews.\n\nThe rest of the 60 km² was explored on long survival expeditions, including trips to a tropical getaway. The world is also home to dozens of named pets — wolves, horses and cats.",
+      "exhibits": {
+        "exhibit-1": { "title": "Spawn Town", "caption": "The heart of the server. A giant muscular cat looms over the lake, beside a tower and a purple-hooded figure. Across the river are the farm (with its own billboard), a stone church with a spire, a white dome, a grey tower block and dozens of houses, barns and stables." },
+        "exhibit-2": { "title": "The Surroundings", "caption": "A wider view of the 512×512 blocks around spawn, rendered at lower detail so you can see the town in its landscape: the river, the coast, and the paths and outbuildings leading away from the centre." }
+      }
+    }
+  }
+}

@@ -1,0 +1,1539 @@
+{
+ "id": "glitchdemall-3",
+ "folder": "Glitchdemall (3)",
+ "edition": "Java",
+ "level_name": "world",
+ "version": "1.12.2",
+ "data_version": 1343,
+ "game_mode": "Creative",
+ "hardcore": false,
+ "cheats": false,
+ "generator": "Default",
+ "seed": "-956824355511618951",
+ "spawn": [
+  39887,
+  73,
+  1877
+ ],
+ "last_played": "2026-11-22T01:05:15.151000Z",
+ "world_ticks": 3339115,
+ "day_time": 1000,
+ "raining": false,
+ "thundering": false,
+ "players": [
+  {
+   "name": "You",
+   "pos": [
+    -381,
+    97,
+    1118
+   ],
+   "dimension": 0,
+   "xp_level": 24,
+   "game_mode": "Creative",
+   "play_ticks": 2760442,
+   "blocks_placed": 41376,
+   "blocks_mined": 10894,
+   "items_crafted": 50,
+   "walked_m": 71751,
+   "flown_m": 163649,
+   "deaths": 107,
+   "mob_kills": 42,
+   "jumps": 17838,
+   "inventory": [
+    [
+     "renamed item",
+     64
+    ],
+    [
+     "stained_hardened_clay",
+     1
+    ],
+    [
+     "wool",
+     1
+    ],
+    [
+     "sand",
+     1
+    ],
+    [
+     "quartz_block",
+     1
+    ],
+    [
+     "gold_block",
+     1
+    ],
+    [
+     "milk_bucket",
+     1
+    ],
+    [
+     "stone_button",
+     1
+    ],
+    [
+     "command_block",
+     1
+    ],
+    [
+     "golden_helmet",
+     1
+    ],
+    [
+     "golden_chestplate",
+     1
+    ],
+    [
+     "golden_leggings",
+     1
+    ]
+   ]
+  },
+  {
+   "pos": [
+    -282,
+    102,
+    712
+   ],
+   "dimension": 0,
+   "xp_level": 6,
+   "game_mode": "Creative",
+   "play_ticks": 1830022,
+   "blocks_placed": 32309,
+   "blocks_mined": 81,
+   "items_crafted": 73,
+   "walked_m": 47569,
+   "flown_m": 121747,
+   "deaths": 161,
+   "mob_kills": 23,
+   "jumps": 17957,
+   "inventory": [
+    [
+     "torch",
+     67
+    ],
+    [
+     "sticky_piston",
+     1
+    ],
+    [
+     "quartz_block",
+     1
+    ],
+    [
+     "stained_glass",
+     1
+    ],
+    [
+     "redstone",
+     1
+    ],
+    [
+     "piston",
+     1
+    ],
+    [
+     "redstone_block",
+     1
+    ],
+    [
+     "stone_pressure_plate",
+     1
+    ],
+    [
+     "stained_hardened_clay",
+     1
+    ],
+    [
+     "sandstone",
+     1
+    ],
+    [
+     "planks",
+     1
+    ],
+    [
+     "command_block",
+     1
+    ]
+   ]
+  },
+  {
+   "pos": [
+    -406,
+    72,
+    995
+   ],
+   "dimension": 0,
+   "xp_level": 28,
+   "game_mode": "Creative",
+   "play_ticks": 1192171,
+   "blocks_placed": 17935,
+   "blocks_mined": 1051,
+   "items_crafted": 53,
+   "walked_m": 45045,
+   "flown_m": 60562,
+   "deaths": 80,
+   "mob_kills": 189,
+   "jumps": 6406,
+   "inventory": [
+    [
+     "torch",
+     3
+    ],
+    [
+     "wool",
+     2
+    ],
+    [
+     "stained_hardened_clay",
+     1
+    ],
+    [
+     "bedrock",
+     1
+    ],
+    [
+     "barrier",
+     1
+    ],
+    [
+     "iron_door",
+     1
+    ]
+   ]
+  },
+  {
+   "pos": [
+    -327,
+    10,
+    998
+   ],
+   "dimension": 0,
+   "xp_level": 2,
+   "game_mode": "Creative",
+   "play_ticks": 660979,
+   "blocks_placed": 6611,
+   "blocks_mined": 3,
+   "items_crafted": 0,
+   "walked_m": 18238,
+   "flown_m": 39417,
+   "deaths": 33,
+   "mob_kills": 84,
+   "jumps": 3271,
+   "inventory": [
+    [
+     "renamed item",
+     193
+    ],
+    [
+     "cooked_beef",
+     37
+    ],
+    [
+     "glass_bottle",
+     21
+    ],
+    [
+     "torch",
+     7
+    ],
+    [
+     "diamond_boots",
+     5
+    ],
+    [
+     "lever",
+     4
+    ],
+    [
+     "milk_bucket",
+     1
+    ],
+    [
+     "written_book",
+     1
+    ]
+   ]
+  },
+  {
+   "pos": [
+    39850,
+    1866,
+    7395
+   ],
+   "dimension": 0,
+   "xp_level": 0,
+   "game_mode": "Creative",
+   "play_ticks": 104934,
+   "blocks_placed": 212,
+   "blocks_mined": 82,
+   "items_crafted": 0,
+   "walked_m": 5653,
+   "flown_m": 10197,
+   "deaths": 11,
+   "mob_kills": 27,
+   "jumps": 1005,
+   "inventory": [
+    [
+     "cooked_beef",
+     121
+    ],
+    [
+     "cobblestone",
+     44
+    ],
+    [
+     "dye",
+     26
+    ],
+    [
+     "stone",
+     18
+    ],
+    [
+     "rotten_flesh",
+     14
+    ],
+    [
+     "renamed item",
+     14
+    ]
+   ]
+  },
+  {
+   "pos": [
+    39871,
+    68,
+    1835
+   ],
+   "dimension": 0,
+   "xp_level": 0,
+   "game_mode": "Creative",
+   "play_ticks": 754,
+   "blocks_placed": 0,
+   "blocks_mined": 0,
+   "items_crafted": 0,
+   "walked_m": 4,
+   "flown_m": 81,
+   "deaths": 0,
+   "mob_kills": 0,
+   "jumps": 1,
+   "inventory": []
+  },
+  {
+   "pos": [
+    39878,
+    85,
+    1860
+   ],
+   "dimension": 0,
+   "xp_level": 0,
+   "game_mode": "Creative",
+   "play_ticks": 278,
+   "blocks_placed": 0,
+   "blocks_mined": 0,
+   "items_crafted": 0,
+   "walked_m": 0,
+   "flown_m": 22,
+   "deaths": 0,
+   "mob_kills": 0,
+   "jumps": 2,
+   "inventory": []
+  }
+ ],
+ "dimensions": [],
+ "dates": {
+  "first": "2017-05-03",
+  "last": "2017-06-17"
+ },
+ "icon": "data/glitchdemall-3/icon.png",
+ "chunks": 8077,
+ "area_km2": 2.07,
+ "top_blocks": [
+  [
+   "stone",
+   72355965,
+   "#7d7d7d"
+  ],
+  [
+   "water",
+   32335952,
+   "#3e76de"
+  ],
+  [
+   "bedrock",
+   6204994,
+   "#555555"
+  ],
+  [
+   "andesite stone",
+   3934785,
+   "#888888"
+  ],
+  [
+   "granite stone",
+   3788603,
+   "#956755"
+  ],
+  [
+   "diorite stone",
+   3628815,
+   "#bcbcbc"
+  ],
+  [
+   "dirt",
+   2597930,
+   "#866043"
+  ],
+  [
+   "gravel",
+   2462543,
+   "#837f7e"
+  ],
+  [
+   "coal ore",
+   1029432,
+   "#737373"
+  ],
+  [
+   "lava",
+   725226,
+   "#d4600e"
+  ],
+  [
+   "sand",
+   717869,
+   "#dbcfa3"
+  ],
+  [
+   "iron ore",
+   609587,
+   "#88827f"
+  ],
+  [
+   "sandstone",
+   557914,
+   "#d8cb9b"
+  ],
+  [
+   "grass",
+   368241,
+   "#689e3a"
+  ],
+  [
+   "redstone ore",
+   217016,
+   "#856b6b"
+  ],
+  [
+   "birch leaves",
+   112271,
+   "#62843a"
+  ]
+ ],
+ "built_blocks": [
+  [
+   "oak planks",
+   22886,
+   "#a2824e"
+  ],
+  [
+   "oak fence",
+   15798,
+   "#a2824e"
+  ],
+  [
+   "quartz block",
+   10702,
+   "#ebe5de"
+  ],
+  [
+   "stonebrick",
+   8330,
+   "#7a797a"
+  ],
+  [
+   "blue stained hardened clay",
+   5479,
+   "#4a3b5b"
+  ],
+  [
+   "black wool",
+   5144,
+   "#141519"
+  ],
+  [
+   "rail",
+   4272,
+   "#7d6e55"
+  ],
+  [
+   "mossy stonebrick",
+   3453,
+   "#737969"
+  ],
+  [
+   "cracked stonebrick",
+   2277,
+   "#7a797a"
+  ],
+  [
+   "black stained hardened clay",
+   1166,
+   "#251610"
+  ],
+  [
+   "red stained glass",
+   880,
+   "#a02722"
+  ],
+  [
+   "white wool",
+   816,
+   "#e9ecec"
+  ],
+  [
+   "red wool",
+   799,
+   "#a02722"
+  ],
+  [
+   "redstone wire",
+   787,
+   "#be140a"
+  ],
+  [
+   "command block",
+   655,
+   "#b4876e"
+  ],
+  [
+   "glass",
+   543,
+   "#d2e4ec"
+  ]
+ ],
+ "total_built": 83987,
+ "entities": [
+  [
+   "item",
+   721
+  ],
+  [
+   "cow",
+   128
+  ],
+  [
+   "xp_orb",
+   105
+  ],
+  [
+   "chicken",
+   95
+  ],
+  [
+   "rabbit",
+   84
+  ],
+  [
+   "chest_minecart",
+   66
+  ],
+  [
+   "sheep",
+   62
+  ],
+  [
+   "squid",
+   56
+  ],
+  [
+   "pig",
+   44
+  ],
+  [
+   "zombie",
+   13
+  ],
+  [
+   "wolf",
+   12
+  ],
+  [
+   "skeleton",
+   11
+  ],
+  [
+   "creeper",
+   8
+  ],
+  [
+   "bat",
+   8
+  ]
+ ],
+ "sign_count": 185,
+ "container_count": 138,
+ "book_count": 29,
+ "map": {
+  "src": "data/glitchdemall-3/map.webp",
+  "w": 1332,
+  "h": 1400,
+  "x0": -1072,
+  "z0": -160,
+  "scale": 1.1885714285714286,
+  "cropped": false,
+  "chunks_in_view": 4316,
+  "clusters": 6
+ },
+ "exhibits": [
+  {
+   "chunks": [
+    -38,
+    59,
+    -27,
+    68
+   ],
+   "x0": -608,
+   "z0": 944,
+   "w": 192,
+   "d": 160,
+   "score": 65514.5,
+   "built_blocks": 15889,
+   "inhabited_ticks": 256489428,
+   "id": "exhibit-1",
+   "y_range": [
+    54,
+    135
+   ],
+   "scale": 4,
+   "materials": [
+    [
+     "blue stained hardened clay",
+     5158,
+     "#4a3b5b"
+    ],
+    [
+     "black wool",
+     5015,
+     "#141519"
+    ],
+    [
+     "quartz block",
+     1718,
+     "#ebe5de"
+    ],
+    [
+     "oak planks",
+     1506,
+     "#a2824e"
+    ],
+    [
+     "white wool",
+     665,
+     "#e9ecec"
+    ],
+    [
+     "redstone wire",
+     431,
+     "#be140a"
+    ],
+    [
+     "green stained hardened clay",
+     262,
+     "#4c532a"
+    ],
+    [
+     "unpowered repeater",
+     109,
+     "#a09696"
+    ],
+    [
+     "command block",
+     82,
+     "#b4876e"
+    ],
+    [
+     "glowstone",
+     76,
+     "#dcb46e"
+    ]
+   ],
+   "views": [
+    {
+     "src": "data/glitchdemall-3/exhibit-1-r0.webp",
+     "w": 1408,
+     "h": 790
+    },
+    {
+     "src": "data/glitchdemall-3/exhibit-1-r1.webp",
+     "w": 1408,
+     "h": 740
+    },
+    {
+     "src": "data/glitchdemall-3/exhibit-1-r2.webp",
+     "w": 1408,
+     "h": 994
+    },
+    {
+     "src": "data/glitchdemall-3/exhibit-1-r3.webp",
+     "w": 1408,
+     "h": 782
+    }
+   ],
+   "thumb": "data/glitchdemall-3/exhibit-1-thumb.webp",
+   "containers": [
+    {
+     "pos": [
+      -483,
+      69,
+      1000
+     ],
+     "type": "dispenser",
+     "items": [
+      [
+       "spawn_egg",
+       576
+      ]
+     ],
+     "total": 576
+    },
+    {
+     "pos": [
+      -420,
+      41,
+      1000
+     ],
+     "type": "chest",
+     "items": [
+      [
+       "cobblestone",
+       242
+      ],
+      [
+       "string",
+       8
+      ],
+      [
+       "stone",
+       5
+      ],
+      [
+       "rotten_flesh",
+       4
+      ],
+      [
+       "bone",
+       4
+      ],
+      [
+       "dirt",
+       2
+      ],
+      [
+       "potato",
+       1
+      ]
+     ],
+     "total": 266
+    },
+    {
+     "pos": [
+      -446,
+      126,
+      1103
+     ],
+     "type": "chest",
+     "items": [
+      [
+       "experience_bottle",
+       16
+      ],
+      [
+       "golden_chestplate",
+       1
+      ],
+      [
+       "iron_hoe",
+       1
+      ]
+     ],
+     "total": 18
+    },
+    {
+     "pos": [
+      -424,
+      126,
+      1103
+     ],
+     "type": "chest",
+     "items": [
+      [
+       "splash_potion",
+       1
+      ],
+      [
+       "iron_boots",
+       1
+      ],
+      [
+       "wooden_sword",
+       1
+      ]
+     ],
+     "total": 3
+    },
+    {
+     "pos": [
+      -435,
+      126,
+      1103
+     ],
+     "type": "chest",
+     "items": [
+      [
+       "leather_chestplate",
+       1
+      ],
+      [
+       "leather_leggings",
+       1
+      ]
+     ],
+     "total": 2
+    },
+    {
+     "pos": [
+      -481,
+      69,
+      991
+     ],
+     "type": "dispenser",
+     "items": [
+      [
+       "lava_bucket",
+       1
+      ]
+     ],
+     "total": 1
+    },
+    {
+     "pos": [
+      -461,
+      68,
+      1004
+     ],
+     "type": "chest",
+     "items": [
+      [
+       "stone_button",
+       1
+      ]
+     ],
+     "total": 1
+    },
+    {
+     "pos": [
+      -465,
+      68,
+      1009
+     ],
+     "type": "chest",
+     "items": [
+      [
+       "stone_button",
+       1
+      ]
+     ],
+     "total": 1
+    },
+    {
+     "pos": [
+      -442,
+      70,
+      1008
+     ],
+     "type": "dispenser",
+     "items": [
+      [
+       "stone_button",
+       1
+      ]
+     ],
+     "total": 1
+    }
+   ],
+   "sign_count": 60
+  },
+  {
+   "chunks": [
+    -28,
+    42,
+    -15,
+    54
+   ],
+   "x0": -448,
+   "z0": 672,
+   "w": 224,
+   "d": 208,
+   "score": 47231.5,
+   "built_blocks": 9059,
+   "inhabited_ticks": 148293031,
+   "id": "exhibit-2",
+   "y_range": [
+    54,
+    107
+   ],
+   "scale": 4,
+   "materials": [
+    [
+     "quartz block",
+     7568,
+     "#ebe5de"
+    ],
+    [
+     "red stained glass",
+     872,
+     "#a02722"
+    ],
+    [
+     "redstone wire",
+     240,
+     "#be140a"
+    ],
+    [
+     "oak fence",
+     226,
+     "#a2824e"
+    ],
+    [
+     "oak planks",
+     97,
+     "#a2824e"
+    ],
+    [
+     "iron door",
+     20,
+     "#bebebe"
+    ],
+    [
+     "chest",
+     9,
+     "#a27430"
+    ],
+    [
+     "torch",
+     7,
+     "#ffd25a"
+    ],
+    [
+     "command block",
+     3,
+     "#b4876e"
+    ],
+    [
+     "gold block",
+     3,
+     "#f6d03d"
+    ]
+   ],
+   "views": [
+    {
+     "src": "data/glitchdemall-3/exhibit-2-r0.webp",
+     "w": 1728,
+     "h": 900
+    },
+    {
+     "src": "data/glitchdemall-3/exhibit-2-r1.webp",
+     "w": 1728,
+     "h": 1010
+    },
+    {
+     "src": "data/glitchdemall-3/exhibit-2-r2.webp",
+     "w": 1728,
+     "h": 900
+    },
+    {
+     "src": "data/glitchdemall-3/exhibit-2-r3.webp",
+     "w": 1728,
+     "h": 956
+    }
+   ],
+   "thumb": "data/glitchdemall-3/exhibit-2-thumb.webp",
+   "containers": [
+    {
+     "pos": [
+      -360,
+      17,
+      689
+     ],
+     "type": "Chest",
+     "items": [
+      [
+       "gunpowder",
+       7
+      ],
+      [
+       "string",
+       5
+      ],
+      [
+       "redstone",
+       3
+      ],
+      [
+       "record_cat",
+       1
+      ],
+      [
+       "enchanted_book",
+       1
+      ],
+      [
+       "bucket",
+       1
+      ]
+     ],
+     "total": 18
+    },
+    {
+     "pos": [
+      -440,
+      53,
+      837
+     ],
+     "type": "chest",
+     "items": [
+      [
+       "string",
+       4
+      ],
+      [
+       "gunpowder",
+       3
+      ],
+      [
+       "bread",
+       2
+      ],
+      [
+       "name_tag",
+       1
+      ],
+      [
+       "record_cat",
+       1
+      ],
+      [
+       "iron_ingot",
+       1
+      ],
+      [
+       "saddle",
+       1
+      ]
+     ],
+     "total": 13
+    },
+    {
+     "pos": [
+      -445,
+      53,
+      837
+     ],
+     "type": "chest",
+     "items": [
+      [
+       "bread",
+       4
+      ],
+      [
+       "gunpowder",
+       2
+      ],
+      [
+       "name_tag",
+       1
+      ]
+     ],
+     "total": 7
+    },
+    {
+     "pos": [
+      -381,
+      79,
+      742
+     ],
+     "type": "Chest",
+     "items": [
+      [
+       "diamond_helmet",
+       1
+      ],
+      [
+       "diamond_chestplate",
+       1
+      ],
+      [
+       "diamond_leggings",
+       1
+      ],
+      [
+       "diamond_boots",
+       1
+      ]
+     ],
+     "total": 4
+    },
+    {
+     "pos": [
+      -382,
+      79,
+      761
+     ],
+     "type": "Chest",
+     "items": [
+      [
+       "iron_helmet",
+       1
+      ],
+      [
+       "iron_chestplate",
+       1
+      ],
+      [
+       "iron_boots",
+       1
+      ],
+      [
+       "iron_leggings",
+       1
+      ]
+     ],
+     "total": 4
+    },
+    {
+     "pos": [
+      -382,
+      79,
+      780
+     ],
+     "type": "Chest",
+     "items": [
+      [
+       "leather_helmet",
+       1
+      ],
+      [
+       "leather_chestplate",
+       1
+      ],
+      [
+       "leather_boots",
+       1
+      ],
+      [
+       "leather_leggings",
+       1
+      ]
+     ],
+     "total": 4
+    },
+    {
+     "pos": [
+      -382,
+      79,
+      799
+     ],
+     "type": "Chest",
+     "items": [
+      [
+       "leather_helmet",
+       1
+      ],
+      [
+       "leather_chestplate",
+       1
+      ],
+      [
+       "leather_boots",
+       1
+      ],
+      [
+       "leather_leggings",
+       1
+      ]
+     ],
+     "total": 4
+    },
+    {
+     "pos": [
+      -382,
+      79,
+      778
+     ],
+     "type": "Chest",
+     "items": [
+      [
+       "iron_sword",
+       1
+      ],
+      [
+       "bow",
+       1
+      ],
+      [
+       "arrow",
+       1
+      ]
+     ],
+     "total": 3
+    },
+    {
+     "pos": [
+      -381,
+      79,
+      740
+     ],
+     "type": "Chest",
+     "items": [
+      [
+       "diamond_sword",
+       1
+      ]
+     ],
+     "total": 1
+    },
+    {
+     "pos": [
+      -382,
+      79,
+      759
+     ],
+     "type": "Chest",
+     "items": [
+      [
+       "diamond_sword",
+       1
+      ]
+     ],
+     "total": 1
+    },
+    {
+     "pos": [
+      -382,
+      79,
+      797
+     ],
+     "type": "Chest",
+     "items": [
+      [
+       "stone_sword",
+       1
+      ]
+     ],
+     "total": 1
+    },
+    {
+     "pos": [
+      -384,
+      79,
+      814
+     ],
+     "type": "Chest",
+     "items": [
+      [
+       "stone_sword",
+       1
+      ]
+     ],
+     "total": 1
+    }
+   ],
+   "sign_count": 10
+  },
+  {
+   "chunks": [
+    -25,
+    62,
+    -16,
+    76
+   ],
+   "x0": -400,
+   "z0": 992,
+   "w": 160,
+   "d": 240,
+   "score": 20522.0,
+   "built_blocks": 6395,
+   "inhabited_ticks": 264804937,
+   "id": "exhibit-3",
+   "y_range": [
+    54,
+    109
+   ],
+   "scale": 4,
+   "materials": [
+    [
+     "stonebrick",
+     2164,
+     "#7a797a"
+    ],
+    [
+     "quartz block",
+     1297,
+     "#ebe5de"
+    ],
+    [
+     "black stained hardened clay",
+     1073,
+     "#251610"
+    ],
+    [
+     "red wool",
+     397,
+     "#a02722"
+    ],
+    [
+     "oak planks",
+     253,
+     "#a2824e"
+    ],
+    [
+     "rail",
+     227,
+     "#7d6e55"
+    ],
+    [
+     "blue wool",
+     131,
+     "#35399d"
+    ],
+    [
+     "oak fence",
+     105,
+     "#a2824e"
+    ],
+    [
+     "golden rail",
+     86,
+     "#7d6e55"
+    ],
+    [
+     "redstone wire",
+     85,
+     "#be140a"
+    ]
+   ],
+   "views": [
+    {
+     "src": "data/glitchdemall-3/exhibit-3-r0.webp",
+     "w": 1600,
+     "h": 840
+    },
+    {
+     "src": "data/glitchdemall-3/exhibit-3-r1.webp",
+     "w": 1600,
+     "h": 912
+    },
+    {
+     "src": "data/glitchdemall-3/exhibit-3-r2.webp",
+     "w": 1600,
+     "h": 836
+    },
+    {
+     "src": "data/glitchdemall-3/exhibit-3-r3.webp",
+     "w": 1600,
+     "h": 868
+    }
+   ],
+   "thumb": "data/glitchdemall-3/exhibit-3-thumb.webp",
+   "containers": [
+    {
+     "pos": [
+      -344,
+      102,
+      1144
+     ],
+     "type": "dispenser",
+     "items": [
+      [
+       "fireworks",
+       575
+      ]
+     ],
+     "total": 575
+    },
+    {
+     "pos": [
+      -338,
+      102,
+      1144
+     ],
+     "type": "dispenser",
+     "items": [
+      [
+       "fireworks",
+       575
+      ]
+     ],
+     "total": 575
+    },
+    {
+     "pos": [
+      -330,
+      105,
+      1180
+     ],
+     "type": "dispenser",
+     "items": [
+      [
+       "written_book",
+       141
+      ]
+     ],
+     "total": 141
+    },
+    {
+     "pos": [
+      -330,
+      105,
+      1186
+     ],
+     "type": "dispenser",
+     "items": [
+      [
+       "written_book",
+       140
+      ]
+     ],
+     "total": 140
+    },
+    {
+     "pos": [
+      -363,
+      66,
+      1068
+     ],
+     "type": "Trap",
+     "items": [
+      [
+       "arrow",
+       113
+      ]
+     ],
+     "total": 113
+    },
+    {
+     "pos": [
+      -369,
+      66,
+      1068
+     ],
+     "type": "dispenser",
+     "items": [
+      [
+       "arrow",
+       91
+      ]
+     ],
+     "total": 91
+    },
+    {
+     "pos": [
+      -371,
+      66,
+      1068
+     ],
+     "type": "dispenser",
+     "items": [
+      [
+       "arrow",
+       91
+      ]
+     ],
+     "total": 91
+    },
+    {
+     "pos": [
+      -370,
+      66,
+      1064
+     ],
+     "type": "dispenser",
+     "items": [
+      [
+       "arrow",
+       91
+      ]
+     ],
+     "total": 91
+    },
+    {
+     "pos": [
+      -365,
+      66,
+      1068
+     ],
+     "type": "Trap",
+     "items": [
+      [
+       "arrow",
+       91
+      ]
+     ],
+     "total": 91
+    },
+    {
+     "pos": [
+      -367,
+      66,
+      1068
+     ],
+     "type": "Trap",
+     "items": [
+      [
+       "arrow",
+       91
+      ]
+     ],
+     "total": 91
+    },
+    {
+     "pos": [
+      -364,
+      66,
+      1064
+     ],
+     "type": "Trap",
+     "items": [
+      [
+       "arrow",
+       91
+      ]
+     ],
+     "total": 91
+    },
+    {
+     "pos": [
+      -366,
+      66,
+      1064
+     ],
+     "type": "Trap",
+     "items": [
+      [
+       "arrow",
+       91
+      ]
+     ],
+     "total": 91
+    }
+   ],
+   "sign_count": 42
+  }
+ ],
+ "other_dims": null
+}

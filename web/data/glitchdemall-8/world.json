@@ -1,0 +1,844 @@
+{
+ "id": "glitchdemall-8",
+ "folder": "Glitchdemall (8)",
+ "edition": "Java",
+ "level_name": "world",
+ "version": "1.12.2",
+ "data_version": 1343,
+ "game_mode": "Creative",
+ "hardcore": false,
+ "cheats": false,
+ "generator": "Superflat",
+ "seed": "-604077677573797460",
+ "spawn": [
+  947,
+  4,
+  1037
+ ],
+ "last_played": "2026-11-22T01:21:30.795000Z",
+ "world_ticks": 3417538,
+ "day_time": 1000,
+ "raining": false,
+ "thundering": false,
+ "players": [
+  {
+   "name": "You",
+   "pos": [
+    958,
+    135,
+    1156
+   ],
+   "dimension": 0,
+   "xp_level": 0,
+   "game_mode": "Creative",
+   "play_ticks": 3046556,
+   "blocks_placed": 29324,
+   "blocks_mined": 0,
+   "items_crafted": 3,
+   "walked_m": 62314,
+   "flown_m": 166526,
+   "deaths": 47,
+   "mob_kills": 13,
+   "jumps": 16914,
+   "inventory": [
+    [
+     "arrow",
+     1
+    ],
+    [
+     "concrete",
+     1
+    ],
+    [
+     "leather_boots",
+     1
+    ],
+    [
+     "leather_leggings",
+     1
+    ],
+    [
+     "leather_chestplate",
+     1
+    ]
+   ]
+  },
+  {
+   "pos": [
+    981,
+    119,
+    1029
+   ],
+   "dimension": 0,
+   "xp_level": 1,
+   "game_mode": "Creative",
+   "play_ticks": 1596251,
+   "blocks_placed": 31869,
+   "blocks_mined": 10,
+   "items_crafted": 257,
+   "walked_m": 31385,
+   "flown_m": 101397,
+   "deaths": 57,
+   "mob_kills": 12,
+   "jumps": 16592,
+   "inventory": [
+    [
+     "elytra",
+     1
+    ]
+   ]
+  },
+  {
+   "pos": [
+    947,
+    140,
+    1055
+   ],
+   "dimension": 0,
+   "xp_level": 0,
+   "game_mode": "Survival",
+   "play_ticks": 261216,
+   "blocks_placed": 4459,
+   "blocks_mined": 1,
+   "items_crafted": 0,
+   "walked_m": 1513,
+   "flown_m": 29526,
+   "deaths": 3,
+   "mob_kills": 4,
+   "jumps": 544,
+   "inventory": [
+    [
+     "fireworks",
+     128
+    ],
+    [
+     "dirt",
+     1
+    ],
+    [
+     "elytra",
+     1
+    ]
+   ]
+  },
+  {
+   "pos": [
+    946,
+    8,
+    1125
+   ],
+   "dimension": 0,
+   "xp_level": 0,
+   "game_mode": "Survival",
+   "play_ticks": 199311,
+   "blocks_placed": 2155,
+   "blocks_mined": 0,
+   "items_crafted": 0,
+   "walked_m": 1787,
+   "flown_m": 14080,
+   "deaths": 1,
+   "mob_kills": 0,
+   "jumps": 711,
+   "inventory": [
+    [
+     "concrete",
+     4
+    ],
+    [
+     "wool",
+     3
+    ],
+    [
+     "stained_hardened_clay",
+     1
+    ]
+   ]
+  },
+  {
+   "pos": [
+    942,
+    11,
+    1215
+   ],
+   "dimension": 0,
+   "xp_level": 0,
+   "game_mode": "Creative",
+   "play_ticks": 57970,
+   "blocks_placed": 830,
+   "blocks_mined": 0,
+   "items_crafted": 0,
+   "walked_m": 698,
+   "flown_m": 5394,
+   "deaths": 0,
+   "mob_kills": 4,
+   "jumps": 302,
+   "inventory": [
+    [
+     "concrete",
+     1
+    ],
+    [
+     "wooden_axe",
+     1
+    ],
+    [
+     "planks",
+     1
+    ],
+    [
+     "lava_bucket",
+     1
+    ],
+    [
+     "stone_slab",
+     1
+    ],
+    [
+     "stone",
+     1
+    ],
+    [
+     "cobblestone",
+     1
+    ],
+    [
+     "torch",
+     1
+    ],
+    [
+     "oak_stairs",
+     1
+    ],
+    [
+     "fence",
+     1
+    ]
+   ]
+  }
+ ],
+ "dimensions": [],
+ "dates": {
+  "first": "2018-08-04",
+  "last": "2019-07-02"
+ },
+ "icon": "data/glitchdemall-8/icon.png",
+ "chunks": 13254,
+ "area_km2": 3.39,
+ "top_blocks": [
+  [
+   "dirt",
+   6802430,
+   "#866043"
+  ],
+  [
+   "bedrock",
+   3392518,
+   "#555555"
+  ],
+  [
+   "grass",
+   3371520,
+   "#689e3a"
+  ],
+  [
+   "black concrete",
+   22293,
+   "#141519"
+  ],
+  [
+   "cobblestone",
+   19695,
+   "#7a7a7a"
+  ],
+  [
+   "oak planks",
+   14342,
+   "#a2824e"
+  ],
+  [
+   "grass path",
+   9832,
+   "#947a41"
+  ],
+  [
+   "oak stairs",
+   6939,
+   "#a2824e"
+  ],
+  [
+   "oak log",
+   6396,
+   "#6d5532"
+  ],
+  [
+   "white stained hardened clay",
+   6076,
+   "#d1b2a1"
+  ],
+  [
+   "quartz block",
+   5804,
+   "#ebe5de"
+  ],
+  [
+   "black stained glass pane",
+   4283,
+   "#141519"
+  ],
+  [
+   "farmland",
+   3443,
+   "#512c0f"
+  ],
+  [
+   "spruce planks",
+   3172,
+   "#725430"
+  ],
+  [
+   "gray concrete",
+   3046,
+   "#3e4447"
+  ],
+  [
+   "dark oak planks",
+   3026,
+   "#422b14"
+  ]
+ ],
+ "built_blocks": [
+  [
+   "black concrete",
+   22293,
+   "#141519"
+  ],
+  [
+   "oak planks",
+   14342,
+   "#a2824e"
+  ],
+  [
+   "oak stairs",
+   6939,
+   "#a2824e"
+  ],
+  [
+   "white stained hardened clay",
+   6076,
+   "#d1b2a1"
+  ],
+  [
+   "quartz block",
+   5804,
+   "#ebe5de"
+  ],
+  [
+   "black stained glass pane",
+   4283,
+   "#141519"
+  ],
+  [
+   "spruce planks",
+   3172,
+   "#725430"
+  ],
+  [
+   "gray concrete",
+   3046,
+   "#3e4447"
+  ],
+  [
+   "dark oak planks",
+   3026,
+   "#422b14"
+  ],
+  [
+   "blue concrete",
+   2635,
+   "#35399d"
+  ],
+  [
+   "yellow concrete",
+   2369,
+   "#f8c527"
+  ],
+  [
+   "silver concrete",
+   2024,
+   "#8e8e86"
+  ],
+  [
+   "red concrete",
+   2011,
+   "#a02722"
+  ],
+  [
+   "green concrete",
+   1933,
+   "#546d1b"
+  ],
+  [
+   "glass pane",
+   1527,
+   "#d2e4ec"
+  ],
+  [
+   "oak fence",
+   1355,
+   "#a2824e"
+  ]
+ ],
+ "total_built": 82835,
+ "entities": [
+  [
+   "villager",
+   293
+  ],
+  [
+   "sheep",
+   95
+  ],
+  [
+   "cow",
+   69
+  ],
+  [
+   "pig",
+   65
+  ],
+  [
+   "chicken",
+   55
+  ],
+  [
+   "painting",
+   33
+  ],
+  [
+   "horse",
+   22
+  ],
+  [
+   "minecart",
+   17
+  ],
+  [
+   "armor_stand",
+   16
+  ],
+  [
+   "item",
+   10
+  ],
+  [
+   "donkey",
+   9
+  ],
+  [
+   "item_frame",
+   8
+  ],
+  [
+   "boat",
+   3
+  ],
+  [
+   "xp_orb",
+   1
+  ]
+ ],
+ "sign_count": 177,
+ "container_count": 96,
+ "book_count": 0,
+ "map": {
+  "src": "data/glitchdemall-8/map.webp",
+  "w": 760,
+  "h": 1152,
+  "x0": -256,
+  "z0": -64,
+  "scale": 2.0,
+  "cropped": false,
+  "chunks_in_view": 3420,
+  "clusters": 3
+ },
+ "exhibits": [
+  {
+   "chunks": [
+    52,
+    61,
+    63,
+    76
+   ],
+   "x0": 832,
+   "z0": 976,
+   "w": 192,
+   "d": 256,
+   "score": 240761.6,
+   "built_blocks": 60101,
+   "inhabited_ticks": 296860057,
+   "id": "exhibit-1",
+   "y_range": [
+    0,
+    157
+   ],
+   "scale": 4,
+   "materials": [
+    [
+     "black concrete",
+     22177,
+     "#141519"
+    ],
+    [
+     "quartz block",
+     5386,
+     "#ebe5de"
+    ],
+    [
+     "black stained glass pane",
+     4283,
+     "#141519"
+    ],
+    [
+     "spruce planks",
+     3106,
+     "#725430"
+    ],
+    [
+     "dark oak planks",
+     3026,
+     "#422b14"
+    ],
+    [
+     "blue concrete",
+     2634,
+     "#35399d"
+    ],
+    [
+     "yellow concrete",
+     2271,
+     "#f8c527"
+    ],
+    [
+     "red concrete",
+     1994,
+     "#a02722"
+    ],
+    [
+     "green concrete",
+     1933,
+     "#546d1b"
+    ],
+    [
+     "oak planks",
+     1203,
+     "#a2824e"
+    ]
+   ],
+   "views": [
+    {
+     "src": "data/glitchdemall-8/exhibit-1-r0.webp",
+     "w": 1792,
+     "h": 1130
+    },
+    {
+     "src": "data/glitchdemall-8/exhibit-1-r1.webp",
+     "w": 1792,
+     "h": 1316
+    },
+    {
+     "src": "data/glitchdemall-8/exhibit-1-r2.webp",
+     "w": 1792,
+     "h": 1348
+    },
+    {
+     "src": "data/glitchdemall-8/exhibit-1-r3.webp",
+     "w": 1792,
+     "h": 1242
+    }
+   ],
+   "thumb": "data/glitchdemall-8/exhibit-1-thumb.webp",
+   "containers": [
+    {
+     "pos": [
+      956,
+      15,
+      1121
+     ],
+     "type": "chest",
+     "items": [
+      [
+       "minecart",
+       9
+      ]
+     ],
+     "total": 9
+    },
+    {
+     "pos": [
+      955,
+      130,
+      1153
+     ],
+     "type": "chest",
+     "items": [
+      [
+       "renamed item",
+       8
+      ]
+     ],
+     "total": 8
+    },
+    {
+     "pos": [
+      960,
+      130,
+      1153
+     ],
+     "type": "chest",
+     "items": [
+      [
+       "renamed item",
+       7
+      ]
+     ],
+     "total": 7
+    },
+    {
+     "pos": [
+      961,
+      8,
+      1134
+     ],
+     "type": "chest",
+     "items": [
+      [
+       "minecart",
+       6
+      ]
+     ],
+     "total": 6
+    },
+    {
+     "pos": [
+      955,
+      130,
+      1147
+     ],
+     "type": "chest",
+     "items": [
+      [
+       "renamed item",
+       6
+      ]
+     ],
+     "total": 6
+    },
+    {
+     "pos": [
+      960,
+      130,
+      1147
+     ],
+     "type": "chest",
+     "items": [
+      [
+       "renamed item",
+       5
+      ]
+     ],
+     "total": 5
+    },
+    {
+     "pos": [
+      958,
+      105,
+      1049
+     ],
+     "type": "chest",
+     "items": [
+      [
+       "renamed item",
+       1
+      ]
+     ],
+     "total": 1
+    },
+    {
+     "pos": [
+      958,
+      105,
+      1055
+     ],
+     "type": "chest",
+     "items": [
+      [
+       "renamed item",
+       1
+      ]
+     ],
+     "total": 1
+    },
+    {
+     "pos": [
+      958,
+      105,
+      1053
+     ],
+     "type": "chest",
+     "items": [
+      [
+       "renamed item",
+       1
+      ]
+     ],
+     "total": 1
+    },
+    {
+     "pos": [
+      958,
+      105,
+      1051
+     ],
+     "type": "chest",
+     "items": [
+      [
+       "renamed item",
+       1
+      ]
+     ],
+     "total": 1
+    },
+    {
+     "pos": [
+      948,
+      105,
+      1059
+     ],
+     "type": "chest",
+     "items": [
+      [
+       "renamed item",
+       1
+      ]
+     ],
+     "total": 1
+    },
+    {
+     "pos": [
+      958,
+      105,
+      1065
+     ],
+     "type": "chest",
+     "items": [
+      [
+       "renamed item",
+       1
+      ]
+     ],
+     "total": 1
+    }
+   ],
+   "sign_count": 60
+  },
+  {
+   "chunks": [
+    634,
+    212,
+    640,
+    218
+   ],
+   "x0": 10144,
+   "z0": 3392,
+   "w": 112,
+   "d": 112,
+   "score": 46438.9,
+   "built_blocks": 11394,
+   "inhabited_ticks": 17789589,
+   "id": "exhibit-2",
+   "y_range": [
+    0,
+    17
+   ],
+   "scale": 6,
+   "materials": [
+    [
+     "white stained hardened clay",
+     5752,
+     "#d1b2a1"
+    ],
+    [
+     "gray concrete",
+     2803,
+     "#3e4447"
+    ],
+    [
+     "silver concrete",
+     1297,
+     "#8e8e86"
+    ],
+    [
+     "silver wool",
+     352,
+     "#8e8e86"
+    ],
+    [
+     "red wool",
+     284,
+     "#a02722"
+    ],
+    [
+     "white concrete",
+     165,
+     "#e9ecec"
+    ],
+    [
+     "black concrete",
+     116,
+     "#141519"
+    ],
+    [
+     "yellow concrete",
+     98,
+     "#f8c527"
+    ],
+    [
+     "spruce planks",
+     66,
+     "#725430"
+    ],
+    [
+     "oak fence",
+     48,
+     "#a2824e"
+    ]
+   ],
+   "views": [
+    {
+     "src": "data/glitchdemall-8/exhibit-2-r0.webp",
+     "w": 1344,
+     "h": 696
+    },
+    {
+     "src": "data/glitchdemall-8/exhibit-2-r1.webp",
+     "w": 1344,
+     "h": 696
+    },
+    {
+     "src": "data/glitchdemall-8/exhibit-2-r2.webp",
+     "w": 1344,
+     "h": 696
+    },
+    {
+     "src": "data/glitchdemall-8/exhibit-2-r3.webp",
+     "w": 1344,
+     "h": 696
+    }
+   ],
+   "thumb": "data/glitchdemall-8/exhibit-2-thumb.webp",
+   "containers": [],
+   "sign_count": 5
+  }
+ ],
+ "other_dims": null
+}

@@ -1,0 +1,7 @@
+tools/.cache/
+__pycache__/
+*.pyc
+worlds/
+.DS_Store
+Thumbs.db
+players.json
